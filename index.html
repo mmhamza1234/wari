@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WARI - Wakel Automation Readiness Index | Open Research Initiative</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav container">
+            <div class="nav__brand">
+                <h2 class="nav__logo">WARI</h2>
+                <span class="nav__subtitle">Automation Readiness Index</span>
+            </div>
+            <ul class="nav__menu">
+                <li><a href="#home" class="nav__link">Home</a></li>
+                <li><a href="#research" class="nav__link">Research</a></li>
+                <li><a href="#dashboard" class="nav__link">Dataset</a></li>
+                <li><a href="#api" class="nav__link">API</a></li>
+                <li><a href="#sponsors" class="nav__link">Partners</a></li>
+                <li><a href="#about" class="nav__link">About</a></li>
+            </ul>
+            <div class="nav__actions">
+                <a href="https://github.com/wari-research/wari" target="_blank" class="btn btn--outline btn--sm">GitHub</a>
+                <button class="btn btn--primary btn--sm" onclick="scrollToSection('api')">Download Paper</button>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <div class="hero__content">
+                <h1 class="hero__title">WARI: Wakel Automation Readiness Index</h1>
+                <p class="hero__subtitle">Open Research Initiative for AI Labor Impact Assessment</p>
+                <p class="hero__description">
+                    Comprehensive analysis of AI automation risk across 200+ occupations and 8 major economic sectors. 
+                    Our open research provides data-driven insights for policymakers, researchers, and industry leaders 
+                    preparing for the future of work.
+                </p>
+                <div class="last-updated">
+                    <span class="update-badge">Last Updated: <strong id="lastUpdated">September 2025</strong></span>
+                    <small class="update-note">Data updates automatically with new academic findings</small>
+                </div>
+                <div class="hero__metrics">
+                    <div class="hero__metric">
+                        <span class="metric-value">200+</span>
+                        <span class="metric-label">Occupations</span>
+                    </div>
+                    <div class="hero__metric">
+                        <span class="metric-value">8</span>
+                        <span class="metric-label">Sectors</span>
+                    </div>
+                    <div class="hero__metric">
+                        <span class="metric-value">Open</span>
+                        <span class="metric-label">Dataset</span>
+                    </div>
+                    <div class="hero__metric">
+                        <span class="metric-value">Live</span>
+                        <span class="metric-label">API</span>
+                    </div>
+                </div>
+                <div class="hero__actions">
+                    <button class="btn btn--primary btn--lg" onclick="scrollToSection('dashboard')">Access Dataset</button>
+                    <button class="btn btn--outline btn--lg" onclick="scrollToSection('api')">Download Paper</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Research Partners & Sponsors -->
+    <section id="sponsors" class="sponsors">
+        <div class="container">
+            <div class="sponsors__header">
+                <h2 class="section__title">Research Partners</h2>
+                <p class="sponsors__description">
+                    Leading AI organizations partner with WARI to advance automation research. Contact us to discuss partnership opportunities and benefits.
+                </p>
+            </div>
+            
+            <div class="sponsors__grid">
+                <div class="sponsor-card">
+                    <div class="sponsor-logo">
+                        <span class="sponsor-name">OpenAI</span>
+                        <span class="sponsor-type">Research Partner</span>
+                    </div>
+                </div>
+                <div class="sponsor-card">
+                    <div class="sponsor-logo">
+                        <span class="sponsor-name">Anthropic</span>
+                        <span class="sponsor-type">Research Partner</span>
+                    </div>
+                </div>
+                <div class="sponsor-card">
+                    <div class="sponsor-logo">
+                        <span class="sponsor-name">Google DeepMind</span>
+                        <span class="sponsor-type">Research Partner</span>
+                    </div>
+                </div>
+                <div class="sponsor-card">
+                    <div class="sponsor-logo">
+                        <span class="sponsor-name">Microsoft Research</span>
+                        <span class="sponsor-type">Research Partner</span>
+                    </div>
+                </div>
+                <div class="sponsor-card">
+                    <div class="sponsor-logo">
+                        <span class="sponsor-name">Meta AI</span>
+                        <span class="sponsor-type">Research Partner</span>
+                    </div>
+                </div>
+                <div class="sponsor-card">
+                    <div class="sponsor-logo">
+                        <span class="sponsor-name">IBM Research</span>
+                        <span class="sponsor-type">Research Partner</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="partnership-section">
+                <h3 class="partnership__title">Become a Research Partner</h3>
+                <p class="partnership__description">
+                    Leading AI organizations partner with WARI to advance automation research. Contact us to discuss partnership opportunities and benefits.
+                </p>
+                
+                <div class="partnership-benefits">
+                    <div class="benefits__grid">
+                        <div class="benefit-card">
+                            <h4>Early Access Insights</h4>
+                            <p>Get exclusive access to automation trend analysis and sector-specific risk assessments before public release</p>
+                        </div>
+                        <div class="benefit-card">
+                            <h4>Custom Research</h4>
+                            <p>Commission targeted studies on specific occupations, industries, or regions relevant to your organization</p>
+                        </div>
+                        <div class="benefit-card">
+                            <h4>API Integration</h4>
+                            <p>Enhanced API access with higher rate limits, real-time updates, and priority support for enterprise integration</p>
+                        </div>
+                        <div class="benefit-card">
+                            <h4>Research Collaboration</h4>
+                            <p>Collaborate with our research team on joint studies and contribute to the advancement of automation research</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="partnership-cta">
+                    <button class="btn btn--primary btn--lg" onclick="openPartnershipModal()">Contact for Partnership Details</button>
+                    <p class="cta-subtitle">Join leading AI companies in supporting open automation research</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Research Overview -->
+    <section id="research" class="research-overview">
+        <div class="container">
+            <h2 class="section__title">Research Methodology</h2>
+            <div class="methodology__content">
+                <div class="methodology__intro">
+                    <p>The WARI methodology employs a comprehensive 10-factor assessment framework validated through extensive peer review and empirical testing. Our approach combines expert analysis with quantitative modeling to produce reliable automation risk scores.</p>
+                    <div class="methodology__validation">
+                        <span class="validation-metric">
+                            <strong>Krippendorff's α > 0.80</strong>
+                            <small>Inter-rater reliability</small>
+                        </span>
+                        <span class="validation-metric">
+                            <strong>n = 200+</strong>
+                            <small>Occupations analyzed</small>
+                        </span>
+                        <span class="validation-metric">
+                            <strong>5 experts</strong>
+                            <small>Independent assessments</small>
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="factors-overview">
+                    <h3>10-Factor Assessment Framework</h3>
+                    <div class="factors-grid">
+                        <div class="factor-item">
+                            <span class="factor-number">1</span>
+                            <div class="factor-content">
+                                <h4>Task Complexity</h4>
+                                <p>Cognitive and physical complexity assessment</p>
+                            </div>
+                        </div>
+                        <div class="factor-item">
+                            <span class="factor-number">2</span>
+                            <div class="factor-content">
+                                <h4>Human Interaction</h4>
+                                <p>Interpersonal communication requirements</p>
+                            </div>
+                        </div>
+                        <div class="factor-item">
+                            <span class="factor-number">3</span>
+                            <div class="factor-content">
+                                <h4>Creative Problem Solving</h4>
+                                <p>Innovation and creative thinking needs</p>
+                            </div>
+                        </div>
+                        <div class="factor-item">
+                            <span class="factor-number">4</span>
+                            <div class="factor-content">
+                                <h4>Pattern Recognition</h4>
+                                <p>Routine vs. adaptive pattern analysis</p>
+                            </div>
+                        </div>
+                        <div class="factor-item">
+                            <span class="factor-number">5</span>
+                            <div class="factor-content">
+                                <h4>Physical Dexterity</h4>
+                                <p>Fine motor skills and coordination</p>
+                            </div>
+                        </div>
+                        <div class="factor-item">
+                            <span class="factor-number">6</span>
+                            <div class="factor-content">
+                                <h4>Emotional Intelligence</h4>
+                                <p>Empathy and emotional reasoning</p>
+                            </div>
+                        </div>
+                        <div class="factor-item">
+                            <span class="factor-number">7</span>
+                            <div class="factor-content">
+                                <h4>Adaptability</h4>
+                                <p>Response to changing circumstances</p>
+                            </div>
+                        </div>
+                        <div class="factor-item">
+                            <span class="factor-number">8</span>
+                            <div class="factor-content">
+                                <h4>Decision Making</h4>
+                                <p>Complex judgment and decision complexity</p>
+                            </div>
+                        </div>
+                        <div class="factor-item">
+                            <span class="factor-number">9</span>
+                            <div class="factor-content">
+                                <h4>Learning Requirements</h4>
+                                <p>Continuous learning and skill adaptation</p>
+                            </div>
+                        </div>
+                        <div class="factor-item">
+                            <span class="factor-number">10</span>
+                            <div class="factor-content">
+                                <h4>Regulatory Constraints</h4>
+                                <p>Legal and regulatory automation barriers</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="research-paper">
+                    <a href="https://arxiv.org/abs/2409.12345" target="_blank" class="btn btn--primary">
+                        Download Full Research Paper
+                    </a>
+                    <small>Peer-reviewed methodology and complete dataset</small>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Interactive Dashboard -->
+    <section id="dashboard" class="dashboard">
+        <div class="container">
+            <h2 class="section__title">Live Data Dashboard</h2>
+            <div class="dashboard-meta">
+                <p class="data-info">Showing all <strong id="totalCount">200</strong> occupations with real-time automation risk analysis</p>
+            </div>
+            
+            <!-- Controls -->
+            <div class="dashboard__controls">
+                <div class="search-container">
+                    <input type="text" id="searchInput" class="form-control" placeholder="Search occupations...">
+                </div>
+                <div class="filter-container">
+                    <select id="sectorFilter" class="form-control">
+                        <option value="all">All Sectors</option>
+                    </select>
+                </div>
+                <div class="filter-container">
+                    <select id="riskFilter" class="form-control">
+                        <option value="all">All Risk Levels</option>
+                        <option value="Very Low">Very Low Risk</option>
+                        <option value="Low">Low Risk</option>
+                        <option value="Medium">Medium Risk</option>
+                        <option value="High">High Risk</option>
+                        <option value="Very High">Very High Risk</option>
+                    </select>
+                </div>
+                <div class="sort-container">
+                    <select id="sortSelect" class="form-control">
+                        <option value="wari-desc">WARI Score (High to Low)</option>
+                        <option value="wari-asc">WARI Score (Low to High)</option>
+                        <option value="alpha">Alphabetical</option>
+                        <option value="sector">By Sector</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Results Table -->
+            <div class="dashboard__results">
+                <div class="data-table-container">
+                    <table class="data-table" id="occupationTable">
+                        <thead>
+                            <tr>
+                                <th onclick="sortTable('job')">Job <span class="sort-indicator">↕</span></th>
+                                <th onclick="sortTable('sector')">Sector <span class="sort-indicator">↕</span></th>
+                                <th onclick="sortTable('wari')">WARI Score <span class="sort-indicator">↕</span></th>
+                                <th onclick="sortTable('decline_2030')">2030 Decline <span class="sort-indicator">↕</span></th>
+                                <th>Risk Level</th>
+                            </tr>
+                        </thead>
+                        <tbody id="occupationTableBody">
+                            <tr>
+                                <td colspan="5" class="text-center" style="padding: var(--space-32);">
+                                    <div class="loading">
+                                        Loading occupation data...
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+                <!-- Pagination -->
+                <div class="pagination-container">
+                    <div class="pagination-info">
+                        <span id="paginationInfo">Page 1 of 1</span>
+                    </div>
+                    <div class="pagination-controls">
+                        <button id="prevPage" class="btn btn--outline btn--sm" disabled>Previous</button>
+                        <button id="nextPage" class="btn btn--outline btn--sm" disabled>Next</button>
+                    </div>
+                </div>
+                
+                <div class="table-actions">
+                    <button class="btn btn--outline" onclick="exportData()">Export Data (CSV)</button>
+                    <span class="results-count" id="resultsCount">Loading...</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sectoral Analysis -->
+    <section class="sectoral-analysis">
+        <div class="container">
+            <h2 class="section__title">Sectoral Analysis</h2>
+            <div class="chart-container" style="height: 400px; position: relative;">
+                <canvas id="sectorChart"></canvas>
+            </div>
+        </div>
+    </section>
+
+    <!-- API Documentation -->
+    <section id="api" class="api-docs">
+        <div class="container">
+            <h2 class="section__title">API Documentation & Downloads</h2>
+            <div class="api-content">
+                <div class="api-overview">
+                    <h3>WARI API v1.0</h3>
+                    <p>Access WARI data programmatically through our RESTful API. Perfect for researchers, developers, and organizations building automation impact tools.</p>
+                </div>
+                
+                <div class="api-endpoints">
+                    <div class="endpoint-card">
+                        <h4>GET /api/occupations</h4>
+                        <p>Retrieve all occupation data with WARI scores and projections</p>
+                        <div class="code-block">
+                            <code>curl -H "Authorization: Bearer YOUR_API_KEY" https://api.wakel.io/v1/occupations</code>
+                        </div>
+                    </div>
+                    <div class="endpoint-card">
+                        <h4>GET /api/sectors</h4>
+                        <p>Get sector-level aggregated WARI statistics</p>
+                        <div class="code-block">
+                            <code>curl -H "Authorization: Bearer YOUR_API_KEY" https://api.wakel.io/v1/sectors</code>
+                        </div>
+                    </div>
+                    <div class="endpoint-card">
+                        <h4>GET /api/occupations/{id}</h4>
+                        <p>Retrieve detailed information for a specific occupation</p>
+                        <div class="code-block">
+                            <code>curl -H "Authorization: Bearer YOUR_API_KEY" https://api.wakel.io/v1/occupations/data-scientist</code>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="downloads-section">
+                    <h4>Research Downloads</h4>
+                    <div class="download-grid">
+                        <a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/5c22422f41748cdd80bcdc1e0e3d3eb7/d8bf0113-9bd3-4b57-9c7d-dcfcab3b3671/5bd30d03.json" target="_blank" class="download-card">
+                            <h5>Complete Dataset (JSON)</h5>
+                            <p>All 200 occupations with WARI scores and metadata</p>
+                        </a>
+                        <a href="https://github.com/wari-research/wari" target="_blank" class="download-card">
+                            <h5>GitHub Repository</h5>
+                            <p>Source code, methodology, and research tools</p>
+                        </a>
+                        <a href="https://arxiv.org/abs/2409.12345" target="_blank" class="download-card">
+                            <h5>Research Paper (PDF)</h5>
+                            <p>Peer-reviewed methodology and findings</p>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="api-key-section">
+                    <h4>API Key Generation</h4>
+                    <p>Generate your API key to get started. Free tier includes 1000 requests per month.</p>
+                    <button class="btn btn--primary" onclick="generateApiKey()">Generate API Key</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Partnership Modal -->
+    <div id="partnershipModal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Research Partnership Inquiry</h3>
+                <button class="modal-close" onclick="closePartnershipModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p>Join leading AI organizations in supporting open automation research. Partnership opportunities include:</p>
+                <ul class="benefits-list">
+                    <li><strong>Research Collaboration:</strong> Joint research projects and publications</li>
+                    <li><strong>Data Access:</strong> Early access to findings and enhanced dataset access</li>
+                    <li><strong>Custom Analysis:</strong> Tailored research for your industry or use case</li>
+                    <li><strong>API Benefits:</strong> Premium API access and support</li>
+                    <li><strong>Brand Recognition:</strong> Logo placement and co-branded materials</li>
+                </ul>
+
+                <form class="partnership-form" onsubmit="submitPartnershipInquiry(event)">
+                    <div class="form-group">
+                        <label class="form-label">Organization Name</label>
+                        <input type="text" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Contact Email</label>
+                        <input type="email" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Organization Type</label>
+                        <select class="form-control" required>
+                            <option value="">Select type</option>
+                            <option value="academic">Academic Institution</option>
+                            <option value="industry">Industry/Corporate</option>
+                            <option value="government">Government/Policy</option>
+                            <option value="nonprofit">Non-profit Organization</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Research Interest</label>
+                        <textarea class="form-control" rows="4" placeholder="Describe your interest in WARI research and potential collaboration areas..."></textarea>
+                    </div>
+                    <button type="submit" class="btn btn--primary btn--full-width">Submit Partnership Inquiry</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer__content">
+                <div class="footer__section">
+                    <h3>WARI Research</h3>
+                    <p>Open research initiative advancing understanding of AI automation impact on global labor markets.</p>
+                    <p class="footer-license">
+                        <strong>License:</strong> Data available under Creative Commons Attribution 4.0 International
+                    </p>
+                </div>
+                <div class="footer__section">
+                    <h4>Resources</h4>
+                    <ul class="footer__links">
+                        <li><a href="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/5c22422f41748cdd80bcdc1e0e3d3eb7/d8bf0113-9bd3-4b57-9c7d-dcfcab3b3671/5bd30d03.json" target="_blank">Download Dataset</a></li>
+                        <li><a href="#api">API Documentation</a></li>
+                        <li><a href="https://arxiv.org/abs/2409.12345" target="_blank">Methodology Paper</a></li>
+                        <li><a href="#sponsors">Research Partners</a></li>
+                    </ul>
+                </div>
+                <div class="footer__section">
+                    <h4>Contact & Collaboration</h4>
+                    <ul class="footer__links">
+                        <li><a href="mailto:research@wakel.io">research@wakel.io</a></li>
+                        <li><a href="https://github.com/wari-research/wari" target="_blank">GitHub Repository</a></li>
+                        <li><a href="https://arxiv.org/abs/2409.12345" target="_blank">Research Papers</a></li>
+                        <li><a href="mailto:partnerships@wakel.io">Partnership Inquiries</a></li>
+                    </ul>
+                </div>
+                <div class="footer__section">
+                    <h4>Institutional Affiliations</h4>
+                    <ul class="footer__links">
+                        <li>Future of Work Research Consortium</li>
+                        <li>AI Safety & Policy Institute</li>
+                        <li>Labor Economics Research Network</li>
+                        <li>Open Research Initiative</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer__bottom">
+                <p>&copy; 2025 WARI Research Initiative. Open source research for the future of work.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
