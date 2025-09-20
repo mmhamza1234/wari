@@ -1,0 +1,7142 @@
+[
+  {
+    "job": "Farm Laborer",
+    "sector": "Agriculture",
+    "wari": 41.3,
+    "alpha": 0.41,
+    "decline_2030": 10.7,
+    "decline_2040": 38.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Agricultural Technician",
+    "sector": "Agriculture",
+    "wari": 37.4,
+    "alpha": 0.37,
+    "decline_2030": 9.7,
+    "decline_2040": 34.4,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Irrigation Operator",
+    "sector": "Agriculture",
+    "wari": 46.1,
+    "alpha": 0.46,
+    "decline_2030": 11.9,
+    "decline_2040": 42.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Agri-Drone Operator",
+    "sector": "Agriculture",
+    "wari": 37.5,
+    "alpha": 0.38,
+    "decline_2030": 9.7,
+    "decline_2040": 34.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Greenhouse Manager",
+    "sector": "Agriculture",
+    "wari": 42.6,
+    "alpha": 0.43,
+    "decline_2030": 11.0,
+    "decline_2040": 39.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Soil Scientist",
+    "sector": "Agriculture",
+    "wari": 44.1,
+    "alpha": 0.44,
+    "decline_2030": 11.4,
+    "decline_2040": 40.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Precision Agriculture Analyst",
+    "sector": "Agriculture",
+    "wari": 42.5,
+    "alpha": 0.43,
+    "decline_2030": 11.0,
+    "decline_2040": 39.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Ag Supply Coordinator",
+    "sector": "Agriculture",
+    "wari": 45.8,
+    "alpha": 0.46,
+    "decline_2030": 11.9,
+    "decline_2040": 42.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Livestock Handler",
+    "sector": "Agriculture",
+    "wari": 42.9,
+    "alpha": 0.43,
+    "decline_2030": 11.1,
+    "decline_2040": 39.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Aquaculture Technician",
+    "sector": "Agriculture",
+    "wari": 37.6,
+    "alpha": 0.38,
+    "decline_2030": 9.8,
+    "decline_2040": 34.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Crop Scout",
+    "sector": "Agriculture",
+    "wari": 37.9,
+    "alpha": 0.38,
+    "decline_2030": 9.8,
+    "decline_2040": 34.9,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Agricultural Economist",
+    "sector": "Agriculture",
+    "wari": 38.6,
+    "alpha": 0.39,
+    "decline_2030": 10.0,
+    "decline_2040": 35.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Agronomy Advisor",
+    "sector": "Agriculture",
+    "wari": 37.3,
+    "alpha": 0.37,
+    "decline_2030": 9.7,
+    "decline_2040": 34.3,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Agricultural Mechanic",
+    "sector": "Agriculture",
+    "wari": 36.5,
+    "alpha": 0.36,
+    "decline_2030": 9.5,
+    "decline_2040": 33.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Post-Harvest Specialist",
+    "sector": "Agriculture",
+    "wari": 37.1,
+    "alpha": 0.37,
+    "decline_2030": 9.6,
+    "decline_2040": 34.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Horticulture Specialist",
+    "sector": "Agriculture",
+    "wari": 37.9,
+    "alpha": 0.38,
+    "decline_2030": 9.8,
+    "decline_2040": 34.9,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Seed Production Technician",
+    "sector": "Agriculture",
+    "wari": 34.1,
+    "alpha": 0.34,
+    "decline_2030": 8.8,
+    "decline_2040": 31.4,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Agricultural Data Clerk",
+    "sector": "Agriculture",
+    "wari": 38.4,
+    "alpha": 0.38,
+    "decline_2030": 10.0,
+    "decline_2040": 35.4,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Forestry Worker",
+    "sector": "Agriculture",
+    "wari": 42.6,
+    "alpha": 0.43,
+    "decline_2030": 11.1,
+    "decline_2040": 39.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Agribusiness Sales Rep",
+    "sector": "Agriculture",
+    "wari": 33.4,
+    "alpha": 0.33,
+    "decline_2030": 8.6,
+    "decline_2040": 30.7,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Dairy Production Supervisor",
+    "sector": "Agriculture",
+    "wari": 51.1,
+    "alpha": 0.51,
+    "decline_2030": 13.2,
+    "decline_2040": 47.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Agricultural Logistics Planner",
+    "sector": "Agriculture",
+    "wari": 43.4,
+    "alpha": 0.43,
+    "decline_2030": 11.2,
+    "decline_2040": 39.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Ag Extension Officer",
+    "sector": "Agriculture",
+    "wari": 39.3,
+    "alpha": 0.39,
+    "decline_2030": 10.2,
+    "decline_2040": 36.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Veterinary Assistant",
+    "sector": "Agriculture",
+    "wari": 40.7,
+    "alpha": 0.41,
+    "decline_2030": 10.5,
+    "decline_2040": 37.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Food Safety Inspector",
+    "sector": "Agriculture",
+    "wari": 45.6,
+    "alpha": 0.46,
+    "decline_2030": 11.8,
+    "decline_2040": 41.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Assembly Line Worker",
+    "sector": "Manufacturing",
+    "wari": 69.9,
+    "alpha": 0.7,
+    "decline_2030": 18.1,
+    "decline_2040": 64.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "CNC Operator",
+    "sector": "Manufacturing",
+    "wari": 67.8,
+    "alpha": 0.68,
+    "decline_2030": 17.6,
+    "decline_2040": 62.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Quality Inspector",
+    "sector": "Manufacturing",
+    "wari": 70.1,
+    "alpha": 0.7,
+    "decline_2030": 18.2,
+    "decline_2040": 64.6,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Production Scheduler",
+    "sector": "Manufacturing",
+    "wari": 62.9,
+    "alpha": 0.63,
+    "decline_2030": 16.3,
+    "decline_2040": 57.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Maintenance Technician",
+    "sector": "Manufacturing",
+    "wari": 70.8,
+    "alpha": 0.71,
+    "decline_2030": 18.4,
+    "decline_2040": 65.2,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Industrial Engineer",
+    "sector": "Manufacturing",
+    "wari": 62.5,
+    "alpha": 0.62,
+    "decline_2030": 16.2,
+    "decline_2040": 57.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Process Technician",
+    "sector": "Manufacturing",
+    "wari": 62.7,
+    "alpha": 0.63,
+    "decline_2030": 16.2,
+    "decline_2040": 57.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Welding Technician",
+    "sector": "Manufacturing",
+    "wari": 63.9,
+    "alpha": 0.64,
+    "decline_2030": 16.6,
+    "decline_2040": 58.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Robotics Operator",
+    "sector": "Manufacturing",
+    "wari": 51.8,
+    "alpha": 0.52,
+    "decline_2030": 13.4,
+    "decline_2040": 47.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Materials Planner",
+    "sector": "Manufacturing",
+    "wari": 69.3,
+    "alpha": 0.69,
+    "decline_2030": 18.0,
+    "decline_2040": 63.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Packaging Technician",
+    "sector": "Manufacturing",
+    "wari": 68.2,
+    "alpha": 0.68,
+    "decline_2030": 17.7,
+    "decline_2040": 62.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Fabrication Specialist",
+    "sector": "Manufacturing",
+    "wari": 70.7,
+    "alpha": 0.71,
+    "decline_2030": 18.3,
+    "decline_2040": 65.1,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Machine Setter",
+    "sector": "Manufacturing",
+    "wari": 61.8,
+    "alpha": 0.62,
+    "decline_2030": 16.0,
+    "decline_2040": 56.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Plant Safety Coordinator",
+    "sector": "Manufacturing",
+    "wari": 68.4,
+    "alpha": 0.68,
+    "decline_2030": 17.7,
+    "decline_2040": 63.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Mechatronics Technician",
+    "sector": "Manufacturing",
+    "wari": 66.7,
+    "alpha": 0.67,
+    "decline_2030": 17.3,
+    "decline_2040": 61.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Metrology Technician",
+    "sector": "Manufacturing",
+    "wari": 69.2,
+    "alpha": 0.69,
+    "decline_2030": 17.9,
+    "decline_2040": 63.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Supply Chain Analyst",
+    "sector": "Manufacturing",
+    "wari": 66.0,
+    "alpha": 0.66,
+    "decline_2030": 17.1,
+    "decline_2040": 60.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Industrial Electrician",
+    "sector": "Manufacturing",
+    "wari": 62.3,
+    "alpha": 0.62,
+    "decline_2030": 16.1,
+    "decline_2040": 57.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Tool and Die Maker",
+    "sector": "Manufacturing",
+    "wari": 56.6,
+    "alpha": 0.57,
+    "decline_2030": 14.7,
+    "decline_2040": 52.1,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Production Supervisor",
+    "sector": "Manufacturing",
+    "wari": 59.9,
+    "alpha": 0.6,
+    "decline_2030": 15.5,
+    "decline_2040": 55.1,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Additive Manufacturing Tech",
+    "sector": "Manufacturing",
+    "wari": 61.5,
+    "alpha": 0.62,
+    "decline_2030": 16.0,
+    "decline_2040": 56.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "SMT Operator",
+    "sector": "Manufacturing",
+    "wari": 61.6,
+    "alpha": 0.62,
+    "decline_2030": 16.0,
+    "decline_2040": 56.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Paint Line Operator",
+    "sector": "Manufacturing",
+    "wari": 63.1,
+    "alpha": 0.63,
+    "decline_2030": 16.4,
+    "decline_2040": 58.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Warehouse Supervisor",
+    "sector": "Manufacturing",
+    "wari": 63.2,
+    "alpha": 0.63,
+    "decline_2030": 16.4,
+    "decline_2040": 58.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Lean Coordinator",
+    "sector": "Manufacturing",
+    "wari": 68.7,
+    "alpha": 0.69,
+    "decline_2030": 17.8,
+    "decline_2040": 63.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Truck Driver",
+    "sector": "Transport & Logistics",
+    "wari": 61.5,
+    "alpha": 0.61,
+    "decline_2030": 15.9,
+    "decline_2040": 56.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Warehouse Picker",
+    "sector": "Transport & Logistics",
+    "wari": 54.7,
+    "alpha": 0.55,
+    "decline_2030": 14.2,
+    "decline_2040": 50.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Dispatcher",
+    "sector": "Transport & Logistics",
+    "wari": 58.2,
+    "alpha": 0.58,
+    "decline_2030": 15.1,
+    "decline_2040": 53.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Fleet Mechanic",
+    "sector": "Transport & Logistics",
+    "wari": 62.1,
+    "alpha": 0.62,
+    "decline_2030": 16.1,
+    "decline_2040": 57.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Courier",
+    "sector": "Transport & Logistics",
+    "wari": 64.2,
+    "alpha": 0.64,
+    "decline_2030": 16.7,
+    "decline_2040": 59.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Port Crane Operator",
+    "sector": "Transport & Logistics",
+    "wari": 60.9,
+    "alpha": 0.61,
+    "decline_2030": 15.8,
+    "decline_2040": 56.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Customs Broker",
+    "sector": "Transport & Logistics",
+    "wari": 58.2,
+    "alpha": 0.58,
+    "decline_2030": 15.1,
+    "decline_2040": 53.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Inventory Controller",
+    "sector": "Transport & Logistics",
+    "wari": 63.6,
+    "alpha": 0.64,
+    "decline_2030": 16.5,
+    "decline_2040": 58.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Last-Mile Coordinator",
+    "sector": "Transport & Logistics",
+    "wari": 62.0,
+    "alpha": 0.62,
+    "decline_2030": 16.1,
+    "decline_2040": 57.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Freight Forwarder",
+    "sector": "Transport & Logistics",
+    "wari": 57.3,
+    "alpha": 0.57,
+    "decline_2030": 14.8,
+    "decline_2040": 52.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Rail Yard Operator",
+    "sector": "Transport & Logistics",
+    "wari": 61.3,
+    "alpha": 0.61,
+    "decline_2030": 15.9,
+    "decline_2040": 56.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Air Cargo Agent",
+    "sector": "Transport & Logistics",
+    "wari": 57.5,
+    "alpha": 0.58,
+    "decline_2030": 14.9,
+    "decline_2040": 53.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Maritime Pilot Assistant",
+    "sector": "Transport & Logistics",
+    "wari": 62.5,
+    "alpha": 0.63,
+    "decline_2030": 16.2,
+    "decline_2040": 57.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Logistics Analyst",
+    "sector": "Transport & Logistics",
+    "wari": 66.1,
+    "alpha": 0.66,
+    "decline_2030": 17.1,
+    "decline_2040": 60.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Route Planner",
+    "sector": "Transport & Logistics",
+    "wari": 54.8,
+    "alpha": 0.55,
+    "decline_2030": 14.2,
+    "decline_2040": 50.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Supply Chain Coordinator",
+    "sector": "Transport & Logistics",
+    "wari": 56.9,
+    "alpha": 0.57,
+    "decline_2030": 14.7,
+    "decline_2040": 52.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Cold Chain Technician",
+    "sector": "Transport & Logistics",
+    "wari": 66.5,
+    "alpha": 0.66,
+    "decline_2030": 17.2,
+    "decline_2040": 61.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Order Fulfillment Associate",
+    "sector": "Transport & Logistics",
+    "wari": 58.8,
+    "alpha": 0.59,
+    "decline_2030": 15.2,
+    "decline_2040": 54.1,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "E-Commerce Logistics Lead",
+    "sector": "Transport & Logistics",
+    "wari": 63.7,
+    "alpha": 0.64,
+    "decline_2030": 16.5,
+    "decline_2040": 58.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Forklift Operator",
+    "sector": "Transport & Logistics",
+    "wari": 52.8,
+    "alpha": 0.53,
+    "decline_2030": 13.7,
+    "decline_2040": 48.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Delivery Route Auditor",
+    "sector": "Transport & Logistics",
+    "wari": 58.3,
+    "alpha": 0.58,
+    "decline_2030": 15.1,
+    "decline_2040": 53.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Traffic Operations Coordinator",
+    "sector": "Transport & Logistics",
+    "wari": 55.2,
+    "alpha": 0.55,
+    "decline_2030": 14.3,
+    "decline_2040": 50.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Terminal Operations Specialist",
+    "sector": "Transport & Logistics",
+    "wari": 56.5,
+    "alpha": 0.56,
+    "decline_2030": 14.6,
+    "decline_2040": 52.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Aviation Ground Handler",
+    "sector": "Transport & Logistics",
+    "wari": 66.7,
+    "alpha": 0.67,
+    "decline_2030": 17.3,
+    "decline_2040": 61.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Dock Supervisor",
+    "sector": "Transport & Logistics",
+    "wari": 65.9,
+    "alpha": 0.66,
+    "decline_2030": 17.1,
+    "decline_2040": 60.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Cashier",
+    "sector": "Retail & Hospitality",
+    "wari": 61.0,
+    "alpha": 0.61,
+    "decline_2030": 15.8,
+    "decline_2040": 56.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Store Associate",
+    "sector": "Retail & Hospitality",
+    "wari": 67.6,
+    "alpha": 0.68,
+    "decline_2030": 17.5,
+    "decline_2040": 62.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Hotel Receptionist",
+    "sector": "Retail & Hospitality",
+    "wari": 60.6,
+    "alpha": 0.61,
+    "decline_2030": 15.7,
+    "decline_2040": 55.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Chef",
+    "sector": "Retail & Hospitality",
+    "wari": 61.2,
+    "alpha": 0.61,
+    "decline_2030": 15.9,
+    "decline_2040": 56.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Barista",
+    "sector": "Retail & Hospitality",
+    "wari": 63.2,
+    "alpha": 0.63,
+    "decline_2030": 16.4,
+    "decline_2040": 58.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Waiter/Waitress",
+    "sector": "Retail & Hospitality",
+    "wari": 55.0,
+    "alpha": 0.55,
+    "decline_2030": 14.3,
+    "decline_2040": 50.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Front Office Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 63.4,
+    "alpha": 0.63,
+    "decline_2030": 16.4,
+    "decline_2040": 58.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Housekeeping Supervisor",
+    "sector": "Retail & Hospitality",
+    "wari": 68.9,
+    "alpha": 0.69,
+    "decline_2030": 17.9,
+    "decline_2040": 63.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Sommelier",
+    "sector": "Retail & Hospitality",
+    "wari": 60.1,
+    "alpha": 0.6,
+    "decline_2030": 15.6,
+    "decline_2040": 55.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Event Coordinator",
+    "sector": "Retail & Hospitality",
+    "wari": 62.2,
+    "alpha": 0.62,
+    "decline_2030": 16.1,
+    "decline_2040": 57.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Merchandise Planner",
+    "sector": "Retail & Hospitality",
+    "wari": 58.7,
+    "alpha": 0.59,
+    "decline_2030": 15.2,
+    "decline_2040": 54.1,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "E-commerce Store Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 54.8,
+    "alpha": 0.55,
+    "decline_2030": 14.2,
+    "decline_2040": 50.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Visual Merchandiser",
+    "sector": "Retail & Hospitality",
+    "wari": 58.8,
+    "alpha": 0.59,
+    "decline_2030": 15.2,
+    "decline_2040": 54.1,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Customer Success Associate",
+    "sector": "Retail & Hospitality",
+    "wari": 54.0,
+    "alpha": 0.54,
+    "decline_2030": 14.0,
+    "decline_2040": 49.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Reservations Agent",
+    "sector": "Retail & Hospitality",
+    "wari": 55.8,
+    "alpha": 0.56,
+    "decline_2030": 14.5,
+    "decline_2040": 51.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Butcher",
+    "sector": "Retail & Hospitality",
+    "wari": 61.1,
+    "alpha": 0.61,
+    "decline_2030": 15.8,
+    "decline_2040": 56.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Baker",
+    "sector": "Retail & Hospitality",
+    "wari": 52.3,
+    "alpha": 0.52,
+    "decline_2030": 13.6,
+    "decline_2040": 48.1,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Pastry Chef",
+    "sector": "Retail & Hospitality",
+    "wari": 55.4,
+    "alpha": 0.55,
+    "decline_2030": 14.4,
+    "decline_2040": 51.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Concierge",
+    "sector": "Retail & Hospitality",
+    "wari": 58.3,
+    "alpha": 0.58,
+    "decline_2030": 15.1,
+    "decline_2040": 53.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Retail Loss Prevention Officer",
+    "sector": "Retail & Hospitality",
+    "wari": 62.4,
+    "alpha": 0.62,
+    "decline_2030": 16.2,
+    "decline_2040": 57.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Inventory Auditor",
+    "sector": "Retail & Hospitality",
+    "wari": 58.8,
+    "alpha": 0.59,
+    "decline_2030": 15.2,
+    "decline_2040": 54.1,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Food Delivery Coordinator",
+    "sector": "Retail & Hospitality",
+    "wari": 64.7,
+    "alpha": 0.65,
+    "decline_2030": 16.8,
+    "decline_2040": 59.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Catering Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 59.4,
+    "alpha": 0.59,
+    "decline_2030": 15.4,
+    "decline_2040": 54.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Spa Therapist",
+    "sector": "Retail & Hospitality",
+    "wari": 57.9,
+    "alpha": 0.58,
+    "decline_2030": 15.0,
+    "decline_2040": 53.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Guest Relations Officer",
+    "sector": "Retail & Hospitality",
+    "wari": 62.3,
+    "alpha": 0.62,
+    "decline_2030": 16.1,
+    "decline_2040": 57.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Data Entry Clerk",
+    "sector": "Finance & Business Services",
+    "wari": 68.3,
+    "alpha": 0.68,
+    "decline_2030": 17.7,
+    "decline_2040": 62.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Accounts Payable Clerk",
+    "sector": "Finance & Business Services",
+    "wari": 66.4,
+    "alpha": 0.66,
+    "decline_2030": 17.2,
+    "decline_2040": 61.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Tax Preparer",
+    "sector": "Finance & Business Services",
+    "wari": 64.3,
+    "alpha": 0.64,
+    "decline_2030": 16.7,
+    "decline_2040": 59.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Financial Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 69.4,
+    "alpha": 0.69,
+    "decline_2030": 18.0,
+    "decline_2040": 63.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Call Center Agent",
+    "sector": "Finance & Business Services",
+    "wari": 67.9,
+    "alpha": 0.68,
+    "decline_2030": 17.6,
+    "decline_2040": 62.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Credit Risk Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 67.8,
+    "alpha": 0.68,
+    "decline_2030": 17.6,
+    "decline_2040": 62.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "KYC Compliance Officer",
+    "sector": "Finance & Business Services",
+    "wari": 72.8,
+    "alpha": 0.73,
+    "decline_2030": 18.9,
+    "decline_2040": 67.1,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Payroll Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 69.0,
+    "alpha": 0.69,
+    "decline_2030": 17.9,
+    "decline_2040": 63.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Management Consultant",
+    "sector": "Finance & Business Services",
+    "wari": 68.5,
+    "alpha": 0.68,
+    "decline_2030": 17.7,
+    "decline_2040": 63.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Procurement Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 74.9,
+    "alpha": 0.75,
+    "decline_2030": 19.4,
+    "decline_2040": 68.9,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Paralegal",
+    "sector": "Finance & Business Services",
+    "wari": 69.0,
+    "alpha": 0.69,
+    "decline_2030": 17.9,
+    "decline_2040": 63.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Corporate Accountant",
+    "sector": "Finance & Business Services",
+    "wari": 76.3,
+    "alpha": 0.76,
+    "decline_2030": 19.8,
+    "decline_2040": 70.3,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Actuarial Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 71.1,
+    "alpha": 0.71,
+    "decline_2030": 18.4,
+    "decline_2040": 65.5,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Loan Underwriter",
+    "sector": "Finance & Business Services",
+    "wari": 70.5,
+    "alpha": 0.7,
+    "decline_2030": 18.3,
+    "decline_2040": 64.9,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Business Development Associate",
+    "sector": "Finance & Business Services",
+    "wari": 66.2,
+    "alpha": 0.66,
+    "decline_2030": 17.2,
+    "decline_2040": 60.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Market Research Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 68.2,
+    "alpha": 0.68,
+    "decline_2030": 17.7,
+    "decline_2040": 62.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Investment Operations Associate",
+    "sector": "Finance & Business Services",
+    "wari": 67.3,
+    "alpha": 0.67,
+    "decline_2030": 17.5,
+    "decline_2040": 62.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Customer Support Representative",
+    "sector": "Finance & Business Services",
+    "wari": 63.1,
+    "alpha": 0.63,
+    "decline_2030": 16.4,
+    "decline_2040": 58.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Insurance Claims Adjuster",
+    "sector": "Finance & Business Services",
+    "wari": 72.8,
+    "alpha": 0.73,
+    "decline_2030": 18.9,
+    "decline_2040": 67.0,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Treasury Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 63.1,
+    "alpha": 0.63,
+    "decline_2030": 16.4,
+    "decline_2040": 58.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Internal Auditor",
+    "sector": "Finance & Business Services",
+    "wari": 65.9,
+    "alpha": 0.66,
+    "decline_2030": 17.1,
+    "decline_2040": 60.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "HR Generalist",
+    "sector": "Finance & Business Services",
+    "wari": 64.2,
+    "alpha": 0.64,
+    "decline_2030": 16.6,
+    "decline_2040": 59.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Recruitment Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 63.0,
+    "alpha": 0.63,
+    "decline_2030": 16.3,
+    "decline_2040": 58.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Office Manager",
+    "sector": "Finance & Business Services",
+    "wari": 65.5,
+    "alpha": 0.66,
+    "decline_2030": 17.0,
+    "decline_2040": 60.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Content Moderator",
+    "sector": "Finance & Business Services",
+    "wari": 63.4,
+    "alpha": 0.63,
+    "decline_2030": 16.4,
+    "decline_2040": 58.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Software Developer",
+    "sector": "Technology & Engineering",
+    "wari": 49.4,
+    "alpha": 0.49,
+    "decline_2030": 12.8,
+    "decline_2040": 45.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Data Scientist",
+    "sector": "Technology & Engineering",
+    "wari": 60.0,
+    "alpha": 0.6,
+    "decline_2030": 15.6,
+    "decline_2040": 55.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "IT Support Specialist",
+    "sector": "Technology & Engineering",
+    "wari": 62.8,
+    "alpha": 0.63,
+    "decline_2030": 16.3,
+    "decline_2040": 57.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "QA Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 53.6,
+    "alpha": 0.54,
+    "decline_2030": 13.9,
+    "decline_2040": 49.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Network Administrator",
+    "sector": "Technology & Engineering",
+    "wari": 61.8,
+    "alpha": 0.62,
+    "decline_2030": 16.0,
+    "decline_2040": 56.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Cloud DevOps Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 57.5,
+    "alpha": 0.58,
+    "decline_2030": 14.9,
+    "decline_2040": 53.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Cybersecurity Analyst",
+    "sector": "Technology & Engineering",
+    "wari": 58.6,
+    "alpha": 0.59,
+    "decline_2030": 15.2,
+    "decline_2040": 53.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Product Manager",
+    "sector": "Technology & Engineering",
+    "wari": 53.5,
+    "alpha": 0.54,
+    "decline_2030": 13.9,
+    "decline_2040": 49.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "UX Designer",
+    "sector": "Technology & Engineering",
+    "wari": 57.8,
+    "alpha": 0.58,
+    "decline_2030": 15.0,
+    "decline_2040": 53.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Data Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 63.3,
+    "alpha": 0.63,
+    "decline_2030": 16.4,
+    "decline_2040": 58.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "ML Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 61.0,
+    "alpha": 0.61,
+    "decline_2030": 15.8,
+    "decline_2040": 56.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Site Reliability Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 69.3,
+    "alpha": 0.69,
+    "decline_2030": 18.0,
+    "decline_2040": 63.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Business Intelligence Analyst",
+    "sector": "Technology & Engineering",
+    "wari": 52.3,
+    "alpha": 0.52,
+    "decline_2030": 13.6,
+    "decline_2040": 48.1,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Technical Writer",
+    "sector": "Technology & Engineering",
+    "wari": 57.8,
+    "alpha": 0.58,
+    "decline_2030": 15.0,
+    "decline_2040": 53.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "AR/VR Developer",
+    "sector": "Technology & Engineering",
+    "wari": 57.1,
+    "alpha": 0.57,
+    "decline_2030": 14.8,
+    "decline_2040": 52.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Hardware Design Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 62.3,
+    "alpha": 0.62,
+    "decline_2030": 16.2,
+    "decline_2040": 57.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Embedded Systems Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 70.8,
+    "alpha": 0.71,
+    "decline_2030": 18.4,
+    "decline_2040": 65.2,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "QA Automation Developer",
+    "sector": "Technology & Engineering",
+    "wari": 51.0,
+    "alpha": 0.51,
+    "decline_2030": 13.2,
+    "decline_2040": 46.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "IT Service Desk Analyst",
+    "sector": "Technology & Engineering",
+    "wari": 67.3,
+    "alpha": 0.67,
+    "decline_2030": 17.4,
+    "decline_2040": 62.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Solutions Architect",
+    "sector": "Technology & Engineering",
+    "wari": 60.7,
+    "alpha": 0.61,
+    "decline_2030": 15.7,
+    "decline_2040": 55.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Game Developer",
+    "sector": "Technology & Engineering",
+    "wari": 59.8,
+    "alpha": 0.6,
+    "decline_2030": 15.5,
+    "decline_2040": 55.1,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Search Relevance Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 57.6,
+    "alpha": 0.58,
+    "decline_2030": 14.9,
+    "decline_2040": 53.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Robotics Software Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 52.1,
+    "alpha": 0.52,
+    "decline_2030": 13.5,
+    "decline_2040": 47.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Systems Analyst",
+    "sector": "Technology & Engineering",
+    "wari": 64.0,
+    "alpha": 0.64,
+    "decline_2030": 16.6,
+    "decline_2040": 58.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Integration Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 56.9,
+    "alpha": 0.57,
+    "decline_2030": 14.8,
+    "decline_2040": 52.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Primary School Teacher",
+    "sector": "Education",
+    "wari": 41.5,
+    "alpha": 0.42,
+    "decline_2030": 10.8,
+    "decline_2040": 38.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Secondary School Teacher",
+    "sector": "Education",
+    "wari": 33.8,
+    "alpha": 0.34,
+    "decline_2030": 8.8,
+    "decline_2040": 31.1,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Lecturer",
+    "sector": "Education",
+    "wari": 41.1,
+    "alpha": 0.41,
+    "decline_2030": 10.7,
+    "decline_2040": 37.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Tutor",
+    "sector": "Education",
+    "wari": 36.4,
+    "alpha": 0.36,
+    "decline_2030": 9.4,
+    "decline_2040": 33.5,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Instructional Designer",
+    "sector": "Education",
+    "wari": 43.4,
+    "alpha": 0.43,
+    "decline_2030": 11.2,
+    "decline_2040": 39.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "School Administrator",
+    "sector": "Education",
+    "wari": 34.9,
+    "alpha": 0.35,
+    "decline_2030": 9.1,
+    "decline_2040": 32.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Curriculum Developer",
+    "sector": "Education",
+    "wari": 38.6,
+    "alpha": 0.39,
+    "decline_2030": 10.0,
+    "decline_2040": 35.5,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Education Data Analyst",
+    "sector": "Education",
+    "wari": 45.6,
+    "alpha": 0.46,
+    "decline_2030": 11.8,
+    "decline_2040": 42.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Librarian",
+    "sector": "Education",
+    "wari": 36.2,
+    "alpha": 0.36,
+    "decline_2030": 9.4,
+    "decline_2040": 33.3,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Academic Advisor",
+    "sector": "Education",
+    "wari": 39.1,
+    "alpha": 0.39,
+    "decline_2030": 10.1,
+    "decline_2040": 36.0,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Admissions Officer",
+    "sector": "Education",
+    "wari": 42.6,
+    "alpha": 0.43,
+    "decline_2030": 11.0,
+    "decline_2040": 39.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Test Proctor",
+    "sector": "Education",
+    "wari": 33.5,
+    "alpha": 0.34,
+    "decline_2030": 8.7,
+    "decline_2040": 30.9,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Special Education Teacher",
+    "sector": "Education",
+    "wari": 38.0,
+    "alpha": 0.38,
+    "decline_2030": 9.9,
+    "decline_2040": 35.0,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Education Policy Analyst",
+    "sector": "Education",
+    "wari": 42.5,
+    "alpha": 0.42,
+    "decline_2030": 11.0,
+    "decline_2040": 39.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Educational Technologist",
+    "sector": "Education",
+    "wari": 40.9,
+    "alpha": 0.41,
+    "decline_2030": 10.6,
+    "decline_2040": 37.7,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Career Counselor",
+    "sector": "Education",
+    "wari": 40.1,
+    "alpha": 0.4,
+    "decline_2030": 10.4,
+    "decline_2040": 36.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "ESL Teacher",
+    "sector": "Education",
+    "wari": 32.0,
+    "alpha": 0.32,
+    "decline_2030": 8.3,
+    "decline_2040": 29.5,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Early Childhood Educator",
+    "sector": "Education",
+    "wari": 39.5,
+    "alpha": 0.39,
+    "decline_2030": 10.2,
+    "decline_2040": 36.3,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Online Course Facilitator",
+    "sector": "Education",
+    "wari": 39.4,
+    "alpha": 0.39,
+    "decline_2030": 10.2,
+    "decline_2040": 36.3,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "School Psychologist",
+    "sector": "Education",
+    "wari": 41.5,
+    "alpha": 0.42,
+    "decline_2030": 10.8,
+    "decline_2040": 38.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Teacher Aide",
+    "sector": "Education",
+    "wari": 44.0,
+    "alpha": 0.44,
+    "decline_2030": 11.4,
+    "decline_2040": 40.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Exam Item Writer",
+    "sector": "Education",
+    "wari": 41.8,
+    "alpha": 0.42,
+    "decline_2030": 10.8,
+    "decline_2040": 38.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "University Research Assistant",
+    "sector": "Education",
+    "wari": 41.0,
+    "alpha": 0.41,
+    "decline_2030": 10.6,
+    "decline_2040": 37.7,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Training Coordinator",
+    "sector": "Education",
+    "wari": 42.6,
+    "alpha": 0.43,
+    "decline_2030": 11.1,
+    "decline_2040": 39.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "EdTech Implementation Specialist",
+    "sector": "Education",
+    "wari": 40.1,
+    "alpha": 0.4,
+    "decline_2030": 10.4,
+    "decline_2040": 36.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Registered Nurse",
+    "sector": "Healthcare & Social",
+    "wari": 32.6,
+    "alpha": 0.33,
+    "decline_2030": 8.4,
+    "decline_2040": 30.0,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Radiology Technician",
+    "sector": "Healthcare & Social",
+    "wari": 41.3,
+    "alpha": 0.41,
+    "decline_2030": 10.7,
+    "decline_2040": 38.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Medical Coder",
+    "sector": "Healthcare & Social",
+    "wari": 42.5,
+    "alpha": 0.43,
+    "decline_2030": 11.0,
+    "decline_2040": 39.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Pharmacist",
+    "sector": "Healthcare & Social",
+    "wari": 43.1,
+    "alpha": 0.43,
+    "decline_2030": 11.2,
+    "decline_2040": 39.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Social Worker",
+    "sector": "Healthcare & Social",
+    "wari": 44.7,
+    "alpha": 0.45,
+    "decline_2030": 11.6,
+    "decline_2040": 41.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Medical Receptionist",
+    "sector": "Healthcare & Social",
+    "wari": 45.6,
+    "alpha": 0.46,
+    "decline_2030": 11.8,
+    "decline_2040": 42.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Physiotherapist",
+    "sector": "Healthcare & Social",
+    "wari": 45.1,
+    "alpha": 0.45,
+    "decline_2030": 11.7,
+    "decline_2040": 41.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Laboratory Technician",
+    "sector": "Healthcare & Social",
+    "wari": 48.2,
+    "alpha": 0.48,
+    "decline_2030": 12.5,
+    "decline_2040": 44.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Paramedic",
+    "sector": "Healthcare & Social",
+    "wari": 38.6,
+    "alpha": 0.39,
+    "decline_2030": 10.0,
+    "decline_2040": 35.5,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Healthcare Data Analyst",
+    "sector": "Healthcare & Social",
+    "wari": 43.5,
+    "alpha": 0.43,
+    "decline_2030": 11.3,
+    "decline_2040": 40.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Dental Hygienist",
+    "sector": "Healthcare & Social",
+    "wari": 43.5,
+    "alpha": 0.44,
+    "decline_2030": 11.3,
+    "decline_2040": 40.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "General Practitioner",
+    "sector": "Healthcare & Social",
+    "wari": 42.8,
+    "alpha": 0.43,
+    "decline_2030": 11.1,
+    "decline_2040": 39.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Psychologist",
+    "sector": "Healthcare & Social",
+    "wari": 38.7,
+    "alpha": 0.39,
+    "decline_2030": 10.0,
+    "decline_2040": 35.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Occupational Therapist",
+    "sector": "Healthcare & Social",
+    "wari": 42.4,
+    "alpha": 0.42,
+    "decline_2030": 11.0,
+    "decline_2040": 39.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Dietitian",
+    "sector": "Healthcare & Social",
+    "wari": 41.5,
+    "alpha": 0.42,
+    "decline_2030": 10.8,
+    "decline_2040": 38.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Phlebotomist",
+    "sector": "Healthcare & Social",
+    "wari": 36.0,
+    "alpha": 0.36,
+    "decline_2030": 9.3,
+    "decline_2040": 33.1,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Health Records Clerk",
+    "sector": "Healthcare & Social",
+    "wari": 44.5,
+    "alpha": 0.45,
+    "decline_2030": 11.5,
+    "decline_2040": 41.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Home Health Aide",
+    "sector": "Healthcare & Social",
+    "wari": 39.3,
+    "alpha": 0.39,
+    "decline_2030": 10.2,
+    "decline_2040": 36.1,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Surgical Technologist",
+    "sector": "Healthcare & Social",
+    "wari": 37.5,
+    "alpha": 0.38,
+    "decline_2030": 9.7,
+    "decline_2040": 34.5,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Public Health Educator",
+    "sector": "Healthcare & Social",
+    "wari": 46.0,
+    "alpha": 0.46,
+    "decline_2030": 11.9,
+    "decline_2040": 42.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Claims Processor",
+    "sector": "Healthcare & Social",
+    "wari": 39.3,
+    "alpha": 0.39,
+    "decline_2030": 10.2,
+    "decline_2040": 36.1,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Telemedicine Coordinator",
+    "sector": "Healthcare & Social",
+    "wari": 39.2,
+    "alpha": 0.39,
+    "decline_2030": 10.2,
+    "decline_2040": 36.1,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Clinical Trial Coordinator",
+    "sector": "Healthcare & Social",
+    "wari": 37.9,
+    "alpha": 0.38,
+    "decline_2030": 9.8,
+    "decline_2040": 34.9,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Radiation Therapist",
+    "sector": "Healthcare & Social",
+    "wari": 38.3,
+    "alpha": 0.38,
+    "decline_2030": 9.9,
+    "decline_2040": 35.3,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Medical Equipment Technician",
+    "sector": "Healthcare & Social",
+    "wari": 45.5,
+    "alpha": 0.46,
+    "decline_2030": 11.8,
+    "decline_2040": 41.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "AI Research Scientist",
+    "sector": "Technology & Engineering",
+    "wari": 48.9,
+    "alpha": 0.49,
+    "decline_2030": 12.7,
+    "decline_2040": 45.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Blockchain Developer",
+    "sector": "Technology & Engineering",
+    "wari": 55.7,
+    "alpha": 0.56,
+    "decline_2030": 14.4,
+    "decline_2040": 51.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Cloud Architect",
+    "sector": "Technology & Engineering",
+    "wari": 52.3,
+    "alpha": 0.52,
+    "decline_2030": 13.5,
+    "decline_2040": 48.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Computer Vision Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 49.8,
+    "alpha": 0.5,
+    "decline_2030": 12.9,
+    "decline_2040": 45.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Database Developer",
+    "sector": "Technology & Engineering",
+    "wari": 61.4,
+    "alpha": 0.61,
+    "decline_2030": 15.9,
+    "decline_2040": 56.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "DevSecOps Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 54.1,
+    "alpha": 0.54,
+    "decline_2030": 14.0,
+    "decline_2040": 49.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Ethical Hacker",
+    "sector": "Technology & Engineering",
+    "wari": 47.6,
+    "alpha": 0.48,
+    "decline_2030": 12.3,
+    "decline_2040": 43.8,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Frontend Developer",
+    "sector": "Technology & Engineering",
+    "wari": 56.2,
+    "alpha": 0.56,
+    "decline_2030": 14.6,
+    "decline_2040": 51.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Game Designer",
+    "sector": "Technology & Engineering",
+    "wari": 48.3,
+    "alpha": 0.48,
+    "decline_2030": 12.5,
+    "decline_2040": 44.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Hardware Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 58.7,
+    "alpha": 0.59,
+    "decline_2030": 15.2,
+    "decline_2040": 54.1,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Information Architect",
+    "sector": "Technology & Engineering",
+    "wari": 53.9,
+    "alpha": 0.54,
+    "decline_2030": 14.0,
+    "decline_2040": 49.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "IoT Developer",
+    "sector": "Technology & Engineering",
+    "wari": 55.4,
+    "alpha": 0.55,
+    "decline_2030": 14.3,
+    "decline_2040": 51.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Mobile App Developer",
+    "sector": "Technology & Engineering",
+    "wari": 54.8,
+    "alpha": 0.55,
+    "decline_2030": 14.2,
+    "decline_2040": 50.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Network Security Analyst",
+    "sector": "Technology & Engineering",
+    "wari": 56.9,
+    "alpha": 0.57,
+    "decline_2030": 14.7,
+    "decline_2040": 52.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Platform Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 57.1,
+    "alpha": 0.57,
+    "decline_2030": 14.8,
+    "decline_2040": 52.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Quantum Computing Researcher",
+    "sector": "Technology & Engineering",
+    "wari": 42.7,
+    "alpha": 0.43,
+    "decline_2030": 11.1,
+    "decline_2040": 39.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Robotics Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 51.2,
+    "alpha": 0.51,
+    "decline_2030": 13.3,
+    "decline_2040": 47.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Software Architect",
+    "sector": "Technology & Engineering",
+    "wari": 49.6,
+    "alpha": 0.5,
+    "decline_2030": 12.8,
+    "decline_2040": 45.7,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Test Automation Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 59.3,
+    "alpha": 0.59,
+    "decline_2030": 15.4,
+    "decline_2040": 54.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "VR Developer",
+    "sector": "Technology & Engineering",
+    "wari": 52.8,
+    "alpha": 0.53,
+    "decline_2030": 13.7,
+    "decline_2040": 48.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Web3 Developer",
+    "sector": "Technology & Engineering",
+    "wari": 48.1,
+    "alpha": 0.48,
+    "decline_2030": 12.5,
+    "decline_2040": 44.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "API Developer",
+    "sector": "Technology & Engineering",
+    "wari": 58.4,
+    "alpha": 0.58,
+    "decline_2030": 15.1,
+    "decline_2040": 53.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Backend Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 55.9,
+    "alpha": 0.56,
+    "decline_2030": 14.5,
+    "decline_2040": 51.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Compiler Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 53.7,
+    "alpha": 0.54,
+    "decline_2030": 13.9,
+    "decline_2040": 49.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Data Infrastructure Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 56.8,
+    "alpha": 0.57,
+    "decline_2030": 14.7,
+    "decline_2040": 52.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Embedded Software Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 54.3,
+    "alpha": 0.54,
+    "decline_2030": 14.1,
+    "decline_2040": 50.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Full-Stack Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 53.1,
+    "alpha": 0.53,
+    "decline_2030": 13.8,
+    "decline_2040": 48.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Graphics Programmer",
+    "sector": "Technology & Engineering",
+    "wari": 51.9,
+    "alpha": 0.52,
+    "decline_2030": 13.4,
+    "decline_2040": 47.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "HPC Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 52.4,
+    "alpha": 0.52,
+    "decline_2030": 13.6,
+    "decline_2040": 48.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Integration Specialist",
+    "sector": "Technology & Engineering",
+    "wari": 57.6,
+    "alpha": 0.58,
+    "decline_2030": 14.9,
+    "decline_2040": 53.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Kernel Developer",
+    "sector": "Technology & Engineering",
+    "wari": 48.8,
+    "alpha": 0.49,
+    "decline_2030": 12.6,
+    "decline_2040": 44.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Low-Level Programmer",
+    "sector": "Technology & Engineering",
+    "wari": 50.2,
+    "alpha": 0.5,
+    "decline_2030": 13.0,
+    "decline_2040": 46.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Microservices Developer",
+    "sector": "Technology & Engineering",
+    "wari": 54.7,
+    "alpha": 0.55,
+    "decline_2030": 14.2,
+    "decline_2040": 50.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Network Programmer",
+    "sector": "Technology & Engineering",
+    "wari": 56.1,
+    "alpha": 0.56,
+    "decline_2030": 14.5,
+    "decline_2040": 51.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Operating System Developer",
+    "sector": "Technology & Engineering",
+    "wari": 47.9,
+    "alpha": 0.48,
+    "decline_2030": 12.4,
+    "decline_2040": 44.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Performance Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 53.6,
+    "alpha": 0.54,
+    "decline_2030": 13.9,
+    "decline_2040": 49.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Quality Assurance Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 58.8,
+    "alpha": 0.59,
+    "decline_2030": 15.2,
+    "decline_2040": 54.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Reverse Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 46.3,
+    "alpha": 0.46,
+    "decline_2030": 12.0,
+    "decline_2040": 42.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Security Software Developer",
+    "sector": "Technology & Engineering",
+    "wari": 50.8,
+    "alpha": 0.51,
+    "decline_2030": 13.2,
+    "decline_2040": 46.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "System Programmer",
+    "sector": "Technology & Engineering",
+    "wari": 52.6,
+    "alpha": 0.53,
+    "decline_2030": 13.6,
+    "decline_2040": 48.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Technical Lead",
+    "sector": "Technology & Engineering",
+    "wari": 48.7,
+    "alpha": 0.49,
+    "decline_2030": 12.6,
+    "decline_2040": 44.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "UI/UX Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 51.4,
+    "alpha": 0.51,
+    "decline_2030": 13.3,
+    "decline_2040": 47.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Verification Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 55.2,
+    "alpha": 0.55,
+    "decline_2030": 14.3,
+    "decline_2040": 50.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Web Developer",
+    "sector": "Technology & Engineering",
+    "wari": 54.9,
+    "alpha": 0.55,
+    "decline_2030": 14.2,
+    "decline_2040": 50.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "XML Developer",
+    "sector": "Technology & Engineering",
+    "wari": 57.3,
+    "alpha": 0.57,
+    "decline_2030": 14.8,
+    "decline_2040": 52.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Yield Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 53.8,
+    "alpha": 0.54,
+    "decline_2030": 13.9,
+    "decline_2040": 49.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Zero-Knowledge Proof Developer",
+    "sector": "Technology & Engineering",
+    "wari": 45.1,
+    "alpha": 0.45,
+    "decline_2030": 11.7,
+    "decline_2040": 41.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Algorithm Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 47.2,
+    "alpha": 0.47,
+    "decline_2030": 12.2,
+    "decline_2040": 43.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Bioinformatics Developer",
+    "sector": "Technology & Engineering",
+    "wari": 49.9,
+    "alpha": 0.5,
+    "decline_2030": 12.9,
+    "decline_2040": 46.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Computational Linguist",
+    "sector": "Technology & Engineering",
+    "wari": 46.7,
+    "alpha": 0.47,
+    "decline_2030": 12.1,
+    "decline_2040": 43.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Digital Signal Processing Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 52.9,
+    "alpha": 0.53,
+    "decline_2030": 13.7,
+    "decline_2040": 48.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "FPGA Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 51.6,
+    "alpha": 0.52,
+    "decline_2030": 13.4,
+    "decline_2040": 47.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "GPU Programmer",
+    "sector": "Technology & Engineering",
+    "wari": 50.4,
+    "alpha": 0.5,
+    "decline_2030": 13.1,
+    "decline_2040": 46.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "High-Frequency Trading Developer",
+    "sector": "Technology & Engineering",
+    "wari": 54.5,
+    "alpha": 0.55,
+    "decline_2030": 14.1,
+    "decline_2040": 50.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Image Processing Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 53.2,
+    "alpha": 0.53,
+    "decline_2030": 13.8,
+    "decline_2040": 49.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Java Developer",
+    "sector": "Technology & Engineering",
+    "wari": 56.7,
+    "alpha": 0.57,
+    "decline_2030": 14.7,
+    "decline_2040": 52.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Kubernetes Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 55.8,
+    "alpha": 0.56,
+    "decline_2030": 14.5,
+    "decline_2040": 51.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Linux System Developer",
+    "sector": "Technology & Engineering",
+    "wari": 52.1,
+    "alpha": 0.52,
+    "decline_2030": 13.5,
+    "decline_2040": 48.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Machine Learning Platform Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 51.8,
+    "alpha": 0.52,
+    "decline_2030": 13.4,
+    "decline_2040": 47.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Natural Language Processing Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 48.6,
+    "alpha": 0.49,
+    "decline_2030": 12.6,
+    "decline_2040": 44.8,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "OpenGL Developer",
+    "sector": "Technology & Engineering",
+    "wari": 50.9,
+    "alpha": 0.51,
+    "decline_2030": 13.2,
+    "decline_2040": 46.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Parallel Computing Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 49.3,
+    "alpha": 0.49,
+    "decline_2030": 12.8,
+    "decline_2040": 45.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Quantum Algorithm Developer",
+    "sector": "Technology & Engineering",
+    "wari": 43.4,
+    "alpha": 0.43,
+    "decline_2030": 11.2,
+    "decline_2040": 40.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Rust Developer",
+    "sector": "Technology & Engineering",
+    "wari": 49.1,
+    "alpha": 0.49,
+    "decline_2030": 12.7,
+    "decline_2040": 45.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Scala Developer",
+    "sector": "Technology & Engineering",
+    "wari": 52.7,
+    "alpha": 0.53,
+    "decline_2030": 13.6,
+    "decline_2040": 48.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "TensorFlow Developer",
+    "sector": "Technology & Engineering",
+    "wari": 51.3,
+    "alpha": 0.51,
+    "decline_2030": 13.3,
+    "decline_2040": 47.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Unity Developer",
+    "sector": "Technology & Engineering",
+    "wari": 53.4,
+    "alpha": 0.53,
+    "decline_2030": 13.8,
+    "decline_2040": 49.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Vulkan API Developer",
+    "sector": "Technology & Engineering",
+    "wari": 48.9,
+    "alpha": 0.49,
+    "decline_2030": 12.7,
+    "decline_2040": 45.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "WebAssembly Developer",
+    "sector": "Technology & Engineering",
+    "wari": 50.6,
+    "alpha": 0.51,
+    "decline_2030": 13.1,
+    "decline_2040": 46.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "x86 Assembly Programmer",
+    "sector": "Technology & Engineering",
+    "wari": 45.8,
+    "alpha": 0.46,
+    "decline_2030": 11.9,
+    "decline_2040": 42.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "YAML Engineer",
+    "sector": "Technology & Engineering",
+    "wari": 56.4,
+    "alpha": 0.56,
+    "decline_2030": 14.6,
+    "decline_2040": 51.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "ZeroMQ Developer",
+    "sector": "Technology & Engineering",
+    "wari": 52.8,
+    "alpha": 0.53,
+    "decline_2030": 13.7,
+    "decline_2040": 48.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Android Developer",
+    "sector": "Technology & Engineering",
+    "wari": 55.1,
+    "alpha": 0.55,
+    "decline_2030": 14.3,
+    "decline_2040": 50.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Blockchain Protocol Developer",
+    "sector": "Technology & Engineering",
+    "wari": 47.3,
+    "alpha": 0.47,
+    "decline_2030": 12.3,
+    "decline_2040": 43.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Cryptocurrency Developer",
+    "sector": "Technology & Engineering",
+    "wari": 48.4,
+    "alpha": 0.48,
+    "decline_2030": 12.5,
+    "decline_2040": 44.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "DeFi Developer",
+    "sector": "Technology & Engineering",
+    "wari": 46.9,
+    "alpha": 0.47,
+    "decline_2030": 12.1,
+    "decline_2040": 43.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Ethereum Developer",
+    "sector": "Technology & Engineering",
+    "wari": 47.8,
+    "alpha": 0.48,
+    "decline_2030": 12.4,
+    "decline_2040": 44.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Flutter Developer",
+    "sector": "Technology & Engineering",
+    "wari": 54.2,
+    "alpha": 0.54,
+    "decline_2030": 14.0,
+    "decline_2040": 49.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Go Developer",
+    "sector": "Technology & Engineering",
+    "wari": 51.7,
+    "alpha": 0.52,
+    "decline_2030": 13.4,
+    "decline_2040": 47.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Haskell Developer",
+    "sector": "Technology & Engineering",
+    "wari": 44.6,
+    "alpha": 0.45,
+    "decline_2030": 11.6,
+    "decline_2040": 41.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "iOS Developer",
+    "sector": "Technology & Engineering",
+    "wari": 54.8,
+    "alpha": 0.55,
+    "decline_2030": 14.2,
+    "decline_2040": 50.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "JavaScript Developer",
+    "sector": "Technology & Engineering",
+    "wari": 55.9,
+    "alpha": 0.56,
+    "decline_2030": 14.5,
+    "decline_2040": 51.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Kotlin Developer",
+    "sector": "Technology & Engineering",
+    "wari": 53.6,
+    "alpha": 0.54,
+    "decline_2030": 13.9,
+    "decline_2040": 49.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "LLVM Developer",
+    "sector": "Technology & Engineering",
+    "wari": 46.1,
+    "alpha": 0.46,
+    "decline_2030": 11.9,
+    "decline_2040": 42.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Metaverse Developer",
+    "sector": "Technology & Engineering",
+    "wari": 49.7,
+    "alpha": 0.5,
+    "decline_2030": 12.9,
+    "decline_2040": 45.8,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "NFT Developer",
+    "sector": "Technology & Engineering",
+    "wari": 48.2,
+    "alpha": 0.48,
+    "decline_2030": 12.5,
+    "decline_2040": 44.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Objective-C Developer",
+    "sector": "Technology & Engineering",
+    "wari": 52.4,
+    "alpha": 0.52,
+    "decline_2030": 13.6,
+    "decline_2040": 48.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Python Developer",
+    "sector": "Technology & Engineering",
+    "wari": 53.8,
+    "alpha": 0.54,
+    "decline_2030": 13.9,
+    "decline_2040": 49.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Qt Developer",
+    "sector": "Technology & Engineering",
+    "wari": 51.2,
+    "alpha": 0.51,
+    "decline_2030": 13.3,
+    "decline_2040": 47.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "React Developer",
+    "sector": "Technology & Engineering",
+    "wari": 55.3,
+    "alpha": 0.55,
+    "decline_2030": 14.3,
+    "decline_2040": 50.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Swift Developer",
+    "sector": "Technology & Engineering",
+    "wari": 52.9,
+    "alpha": 0.53,
+    "decline_2030": 13.7,
+    "decline_2040": 48.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "TypeScript Developer",
+    "sector": "Technology & Engineering",
+    "wari": 54.6,
+    "alpha": 0.55,
+    "decline_2030": 14.1,
+    "decline_2040": 50.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Unreal Engine Developer",
+    "sector": "Technology & Engineering",
+    "wari": 50.8,
+    "alpha": 0.51,
+    "decline_2030": 13.2,
+    "decline_2040": 46.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Vue.js Developer",
+    "sector": "Technology & Engineering",
+    "wari": 54.1,
+    "alpha": 0.54,
+    "decline_2030": 14.0,
+    "decline_2040": 49.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "WebGL Developer",
+    "sector": "Technology & Engineering",
+    "wari": 49.5,
+    "alpha": 0.49,
+    "decline_2030": 12.8,
+    "decline_2040": 45.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Xamarin Developer",
+    "sector": "Technology & Engineering",
+    "wari": 53.7,
+    "alpha": 0.54,
+    "decline_2030": 13.9,
+    "decline_2040": 49.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Yarn Package Manager Developer",
+    "sector": "Technology & Engineering",
+    "wari": 55.4,
+    "alpha": 0.55,
+    "decline_2030": 14.3,
+    "decline_2040": 51.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Zig Language Developer",
+    "sector": "Technology & Engineering",
+    "wari": 46.8,
+    "alpha": 0.47,
+    "decline_2030": 12.1,
+    "decline_2040": 43.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Angular Developer",
+    "sector": "Technology & Engineering",
+    "wari": 54.7,
+    "alpha": 0.55,
+    "decline_2030": 14.2,
+    "decline_2040": 50.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Bootstrap Developer",
+    "sector": "Technology & Engineering",
+    "wari": 56.2,
+    "alpha": 0.56,
+    "decline_2030": 14.6,
+    "decline_2040": 51.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "CSS Developer",
+    "sector": "Technology & Engineering",
+    "wari": 57.1,
+    "alpha": 0.57,
+    "decline_2030": 14.8,
+    "decline_2040": 52.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Django Developer",
+    "sector": "Technology & Engineering",
+    "wari": 52.6,
+    "alpha": 0.53,
+    "decline_2030": 13.6,
+    "decline_2040": 48.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Express.js Developer",
+    "sector": "Technology & Engineering",
+    "wari": 53.9,
+    "alpha": 0.54,
+    "decline_2030": 14.0,
+    "decline_2040": 49.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Firebase Developer",
+    "sector": "Technology & Engineering",
+    "wari": 54.3,
+    "alpha": 0.54,
+    "decline_2030": 14.1,
+    "decline_2040": 50.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "GraphQL Developer",
+    "sector": "Technology & Engineering",
+    "wari": 51.8,
+    "alpha": 0.52,
+    "decline_2030": 13.4,
+    "decline_2040": 47.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "HTML5 Developer",
+    "sector": "Technology & Engineering",
+    "wari": 58.4,
+    "alpha": 0.58,
+    "decline_2030": 15.1,
+    "decline_2040": 53.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Anesthesiologist",
+    "sector": "Healthcare & Social",
+    "wari": 35.2,
+    "alpha": 0.35,
+    "decline_2030": 9.1,
+    "decline_2040": 32.4,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Biomedical Engineer",
+    "sector": "Healthcare & Social",
+    "wari": 44.7,
+    "alpha": 0.45,
+    "decline_2030": 11.6,
+    "decline_2040": 41.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Cardiac Technologist",
+    "sector": "Healthcare & Social",
+    "wari": 42.8,
+    "alpha": 0.43,
+    "decline_2030": 11.1,
+    "decline_2040": 39.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Dialysis Technician",
+    "sector": "Healthcare & Social",
+    "wari": 46.1,
+    "alpha": 0.46,
+    "decline_2030": 11.9,
+    "decline_2040": 42.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "EEG Technologist",
+    "sector": "Healthcare & Social",
+    "wari": 43.9,
+    "alpha": 0.44,
+    "decline_2030": 11.4,
+    "decline_2040": 40.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Forensic Pathologist",
+    "sector": "Healthcare & Social",
+    "wari": 38.4,
+    "alpha": 0.38,
+    "decline_2030": 9.9,
+    "decline_2040": 35.4,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Genetic Counselor",
+    "sector": "Healthcare & Social",
+    "wari": 37.6,
+    "alpha": 0.38,
+    "decline_2030": 9.7,
+    "decline_2040": 34.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Health Information Manager",
+    "sector": "Healthcare & Social",
+    "wari": 47.2,
+    "alpha": 0.47,
+    "decline_2030": 12.2,
+    "decline_2040": 43.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Infectious Disease Specialist",
+    "sector": "Healthcare & Social",
+    "wari": 34.8,
+    "alpha": 0.35,
+    "decline_2030": 9.0,
+    "decline_2040": 32.1,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Kinesiologist",
+    "sector": "Healthcare & Social",
+    "wari": 39.7,
+    "alpha": 0.4,
+    "decline_2030": 10.3,
+    "decline_2040": 36.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Laboratory Manager",
+    "sector": "Healthcare & Social",
+    "wari": 45.3,
+    "alpha": 0.45,
+    "decline_2030": 11.7,
+    "decline_2040": 41.7,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Medical Illustrator",
+    "sector": "Healthcare & Social",
+    "wari": 41.6,
+    "alpha": 0.42,
+    "decline_2030": 10.8,
+    "decline_2040": 38.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Neurologist",
+    "sector": "Healthcare & Social",
+    "wari": 33.9,
+    "alpha": 0.34,
+    "decline_2030": 8.8,
+    "decline_2040": 31.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Oncologist",
+    "sector": "Healthcare & Social",
+    "wari": 35.7,
+    "alpha": 0.36,
+    "decline_2030": 9.2,
+    "decline_2040": 32.9,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Pediatric Nurse",
+    "sector": "Healthcare & Social",
+    "wari": 31.8,
+    "alpha": 0.32,
+    "decline_2030": 8.2,
+    "decline_2040": 29.3,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Quality Assurance Coordinator",
+    "sector": "Healthcare & Social",
+    "wari": 46.8,
+    "alpha": 0.47,
+    "decline_2030": 12.1,
+    "decline_2040": 43.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Rehabilitation Counselor",
+    "sector": "Healthcare & Social",
+    "wari": 38.2,
+    "alpha": 0.38,
+    "decline_2030": 9.9,
+    "decline_2040": 35.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Sleep Technologist",
+    "sector": "Healthcare & Social",
+    "wari": 44.5,
+    "alpha": 0.45,
+    "decline_2030": 11.5,
+    "decline_2040": 41.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Transplant Coordinator",
+    "sector": "Healthcare & Social",
+    "wari": 40.1,
+    "alpha": 0.4,
+    "decline_2030": 10.4,
+    "decline_2040": 36.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Ultrasound Technologist",
+    "sector": "Healthcare & Social",
+    "wari": 43.2,
+    "alpha": 0.43,
+    "decline_2030": 11.2,
+    "decline_2040": 39.8,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Vascular Technologist",
+    "sector": "Healthcare & Social",
+    "wari": 42.7,
+    "alpha": 0.43,
+    "decline_2030": 11.1,
+    "decline_2040": 39.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Wound Care Specialist",
+    "sector": "Healthcare & Social",
+    "wari": 37.9,
+    "alpha": 0.38,
+    "decline_2030": 9.8,
+    "decline_2040": 34.9,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "X-Ray Technician",
+    "sector": "Healthcare & Social",
+    "wari": 45.1,
+    "alpha": 0.45,
+    "decline_2030": 11.7,
+    "decline_2040": 41.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Yoga Therapist",
+    "sector": "Healthcare & Social",
+    "wari": 35.4,
+    "alpha": 0.35,
+    "decline_2030": 9.2,
+    "decline_2040": 32.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Zoonotic Disease Specialist",
+    "sector": "Healthcare & Social",
+    "wari": 39.8,
+    "alpha": 0.4,
+    "decline_2030": 10.3,
+    "decline_2040": 36.7,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Addiction Counselor",
+    "sector": "Healthcare & Social",
+    "wari": 36.3,
+    "alpha": 0.36,
+    "decline_2030": 9.4,
+    "decline_2040": 33.4,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Behavioral Therapist",
+    "sector": "Healthcare & Social",
+    "wari": 33.7,
+    "alpha": 0.34,
+    "decline_2030": 8.7,
+    "decline_2040": 31.0,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Clinical Research Coordinator",
+    "sector": "Healthcare & Social",
+    "wari": 42.4,
+    "alpha": 0.42,
+    "decline_2030": 11.0,
+    "decline_2040": 39.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Diagnostic Medical Sonographer",
+    "sector": "Healthcare & Social",
+    "wari": 43.6,
+    "alpha": 0.44,
+    "decline_2030": 11.3,
+    "decline_2040": 40.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Emergency Medical Technician",
+    "sector": "Healthcare & Social",
+    "wari": 38.9,
+    "alpha": 0.39,
+    "decline_2030": 10.1,
+    "decline_2040": 35.8,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Family Therapist",
+    "sector": "Healthcare & Social",
+    "wari": 32.1,
+    "alpha": 0.32,
+    "decline_2030": 8.3,
+    "decline_2040": 29.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Geriatric Care Manager",
+    "sector": "Healthcare & Social",
+    "wari": 37.4,
+    "alpha": 0.37,
+    "decline_2030": 9.7,
+    "decline_2040": 34.4,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Health Educator",
+    "sector": "Healthcare & Social",
+    "wari": 40.6,
+    "alpha": 0.41,
+    "decline_2030": 10.5,
+    "decline_2040": 37.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Infection Control Nurse",
+    "sector": "Healthcare & Social",
+    "wari": 35.8,
+    "alpha": 0.36,
+    "decline_2030": 9.3,
+    "decline_2040": 33.0,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Joint Commission Surveyor",
+    "sector": "Healthcare & Social",
+    "wari": 44.3,
+    "alpha": 0.44,
+    "decline_2030": 11.5,
+    "decline_2040": 40.8,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Lactation Consultant",
+    "sector": "Healthcare & Social",
+    "wari": 36.7,
+    "alpha": 0.37,
+    "decline_2030": 9.5,
+    "decline_2040": 33.8,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Medical Social Worker",
+    "sector": "Healthcare & Social",
+    "wari": 34.5,
+    "alpha": 0.34,
+    "decline_2030": 8.9,
+    "decline_2040": 31.8,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Neonatal Nurse",
+    "sector": "Healthcare & Social",
+    "wari": 30.9,
+    "alpha": 0.31,
+    "decline_2030": 8.0,
+    "decline_2040": 28.5,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Orthopedic Technician",
+    "sector": "Healthcare & Social",
+    "wari": 43.8,
+    "alpha": 0.44,
+    "decline_2030": 11.3,
+    "decline_2040": 40.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Psychiatric Technician",
+    "sector": "Healthcare & Social",
+    "wari": 37.2,
+    "alpha": 0.37,
+    "decline_2030": 9.6,
+    "decline_2040": 34.3,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Quality Improvement Specialist",
+    "sector": "Healthcare & Social",
+    "wari": 45.7,
+    "alpha": 0.46,
+    "decline_2030": 11.8,
+    "decline_2040": 42.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Respiratory Care Practitioner",
+    "sector": "Healthcare & Social",
+    "wari": 41.3,
+    "alpha": 0.41,
+    "decline_2030": 10.7,
+    "decline_2040": 38.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Sports Medicine Physician",
+    "sector": "Healthcare & Social",
+    "wari": 36.1,
+    "alpha": 0.36,
+    "decline_2030": 9.3,
+    "decline_2040": 33.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Telemedicine Specialist",
+    "sector": "Healthcare & Social",
+    "wari": 39.4,
+    "alpha": 0.39,
+    "decline_2030": 10.2,
+    "decline_2040": 36.3,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Utilization Review Nurse",
+    "sector": "Healthcare & Social",
+    "wari": 44.9,
+    "alpha": 0.45,
+    "decline_2030": 11.6,
+    "decline_2040": 41.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Veterinary Technologist",
+    "sector": "Healthcare & Social",
+    "wari": 42.6,
+    "alpha": 0.43,
+    "decline_2030": 11.0,
+    "decline_2040": 39.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Women's Health Nurse Practitioner",
+    "sector": "Healthcare & Social",
+    "wari": 32.8,
+    "alpha": 0.33,
+    "decline_2030": 8.5,
+    "decline_2040": 30.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "X-Ray Film Processor",
+    "sector": "Healthcare & Social",
+    "wari": 47.4,
+    "alpha": 0.47,
+    "decline_2030": 12.3,
+    "decline_2040": 43.7,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Youth Counselor",
+    "sector": "Healthcare & Social",
+    "wari": 35.6,
+    "alpha": 0.36,
+    "decline_2030": 9.2,
+    "decline_2040": 32.8,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Zumba Instructor",
+    "sector": "Healthcare & Social",
+    "wari": 31.2,
+    "alpha": 0.31,
+    "decline_2030": 8.1,
+    "decline_2040": 28.7,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Art Therapist",
+    "sector": "Healthcare & Social",
+    "wari": 33.4,
+    "alpha": 0.33,
+    "decline_2030": 8.7,
+    "decline_2040": 30.8,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Blood Bank Technologist",
+    "sector": "Healthcare & Social",
+    "wari": 44.2,
+    "alpha": 0.44,
+    "decline_2030": 11.4,
+    "decline_2040": 40.7,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Cardiac Catheterization Technologist",
+    "sector": "Healthcare & Social",
+    "wari": 41.8,
+    "alpha": 0.42,
+    "decline_2030": 10.8,
+    "decline_2040": 38.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Dermatology Technician",
+    "sector": "Healthcare & Social",
+    "wari": 43.1,
+    "alpha": 0.43,
+    "decline_2030": 11.2,
+    "decline_2040": 39.7,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Electrocardiograph Technician",
+    "sector": "Healthcare & Social",
+    "wari": 45.6,
+    "alpha": 0.46,
+    "decline_2030": 11.8,
+    "decline_2040": 42.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Fertility Specialist",
+    "sector": "Healthcare & Social",
+    "wari": 37.7,
+    "alpha": 0.38,
+    "decline_2030": 9.8,
+    "decline_2040": 34.7,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Gastroenterology Technician",
+    "sector": "Healthcare & Social",
+    "wari": 42.3,
+    "alpha": 0.42,
+    "decline_2030": 11.0,
+    "decline_2040": 39.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Histology Technician",
+    "sector": "Healthcare & Social",
+    "wari": 46.5,
+    "alpha": 0.47,
+    "decline_2030": 12.0,
+    "decline_2040": 42.8,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Interventional Radiology Technologist",
+    "sector": "Healthcare & Social",
+    "wari": 41.9,
+    "alpha": 0.42,
+    "decline_2030": 10.9,
+    "decline_2040": 38.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Juvenile Corrections Officer",
+    "sector": "Healthcare & Social",
+    "wari": 38.6,
+    "alpha": 0.39,
+    "decline_2030": 10.0,
+    "decline_2040": 35.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Kinesiology Tape Specialist",
+    "sector": "Healthcare & Social",
+    "wari": 40.8,
+    "alpha": 0.41,
+    "decline_2030": 10.6,
+    "decline_2040": 37.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Licensed Practical Nurse",
+    "sector": "Healthcare & Social",
+    "wari": 36.4,
+    "alpha": 0.36,
+    "decline_2030": 9.4,
+    "decline_2040": 33.5,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Mammography Technologist",
+    "sector": "Healthcare & Social",
+    "wari": 44.7,
+    "alpha": 0.45,
+    "decline_2030": 11.6,
+    "decline_2040": 41.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Nuclear Medicine Technologist",
+    "sector": "Healthcare & Social",
+    "wari": 42.1,
+    "alpha": 0.42,
+    "decline_2030": 10.9,
+    "decline_2040": 38.8,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Ophthalmic Technician",
+    "sector": "Healthcare & Social",
+    "wari": 43.5,
+    "alpha": 0.43,
+    "decline_2030": 11.3,
+    "decline_2040": 40.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Prosthetic Technician",
+    "sector": "Healthcare & Social",
+    "wari": 41.6,
+    "alpha": 0.42,
+    "decline_2030": 10.8,
+    "decline_2040": 38.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Quality Control Technician",
+    "sector": "Healthcare & Social",
+    "wari": 46.9,
+    "alpha": 0.47,
+    "decline_2030": 12.1,
+    "decline_2040": 43.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Radiology Information Systems Coordinator",
+    "sector": "Healthcare & Social",
+    "wari": 45.8,
+    "alpha": 0.46,
+    "decline_2030": 11.9,
+    "decline_2040": 42.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Sterile Processing Technician",
+    "sector": "Healthcare & Social",
+    "wari": 44.4,
+    "alpha": 0.44,
+    "decline_2030": 11.5,
+    "decline_2040": 40.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Trauma Nurse",
+    "sector": "Healthcare & Social",
+    "wari": 33.6,
+    "alpha": 0.34,
+    "decline_2030": 8.7,
+    "decline_2040": 30.9,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Urology Technician",
+    "sector": "Healthcare & Social",
+    "wari": 42.8,
+    "alpha": 0.43,
+    "decline_2030": 11.1,
+    "decline_2040": 39.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Veterinary Assistant",
+    "sector": "Healthcare & Social",
+    "wari": 41.2,
+    "alpha": 0.41,
+    "decline_2030": 10.7,
+    "decline_2040": 37.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Wound Ostomy Continence Nurse",
+    "sector": "Healthcare & Social",
+    "wari": 35.9,
+    "alpha": 0.36,
+    "decline_2030": 9.3,
+    "decline_2040": 33.1,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "X-Ray Equipment Service Technician",
+    "sector": "Healthcare & Social",
+    "wari": 47.1,
+    "alpha": 0.47,
+    "decline_2030": 12.2,
+    "decline_2040": 43.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Youth Program Director",
+    "sector": "Healthcare & Social",
+    "wari": 36.8,
+    "alpha": 0.37,
+    "decline_2030": 9.5,
+    "decline_2040": 33.9,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Zen Meditation Instructor",
+    "sector": "Healthcare & Social",
+    "wari": 29.7,
+    "alpha": 0.3,
+    "decline_2030": 7.7,
+    "decline_2040": 27.4,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Acupuncturist",
+    "sector": "Healthcare & Social",
+    "wari": 34.3,
+    "alpha": 0.34,
+    "decline_2030": 8.9,
+    "decline_2040": 31.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Biostatistician",
+    "sector": "Healthcare & Social",
+    "wari": 43.9,
+    "alpha": 0.44,
+    "decline_2030": 11.4,
+    "decline_2040": 40.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Clinical Laboratory Scientist",
+    "sector": "Healthcare & Social",
+    "wari": 44.6,
+    "alpha": 0.45,
+    "decline_2030": 11.6,
+    "decline_2040": 41.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Diagnostic Radiographer",
+    "sector": "Healthcare & Social",
+    "wari": 42.4,
+    "alpha": 0.42,
+    "decline_2030": 11.0,
+    "decline_2040": 39.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Epidemiologist",
+    "sector": "Healthcare & Social",
+    "wari": 41.7,
+    "alpha": 0.42,
+    "decline_2030": 10.8,
+    "decline_2040": 38.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Food Safety Inspector",
+    "sector": "Healthcare & Social",
+    "wari": 45.2,
+    "alpha": 0.45,
+    "decline_2030": 11.7,
+    "decline_2040": 41.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Genetics Laboratory Technologist",
+    "sector": "Healthcare & Social",
+    "wari": 43.8,
+    "alpha": 0.44,
+    "decline_2030": 11.3,
+    "decline_2040": 40.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Health Services Administrator",
+    "sector": "Healthcare & Social",
+    "wari": 46.3,
+    "alpha": 0.46,
+    "decline_2030": 12.0,
+    "decline_2040": 42.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Algorithmic Trader",
+    "sector": "Finance & Business Services",
+    "wari": 67.8,
+    "alpha": 0.68,
+    "decline_2030": 17.6,
+    "decline_2040": 62.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Business Intelligence Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 69.2,
+    "alpha": 0.69,
+    "decline_2030": 17.9,
+    "decline_2040": 63.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Compliance Officer",
+    "sector": "Finance & Business Services",
+    "wari": 71.4,
+    "alpha": 0.71,
+    "decline_2030": 18.5,
+    "decline_2040": 65.8,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Derivatives Trader",
+    "sector": "Finance & Business Services",
+    "wari": 62.7,
+    "alpha": 0.63,
+    "decline_2030": 16.2,
+    "decline_2040": 57.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Economic Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 68.5,
+    "alpha": 0.69,
+    "decline_2030": 17.7,
+    "decline_2040": 63.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Financial Risk Manager",
+    "sector": "Finance & Business Services",
+    "wari": 65.9,
+    "alpha": 0.66,
+    "decline_2030": 17.1,
+    "decline_2040": 60.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Grant Writer",
+    "sector": "Finance & Business Services",
+    "wari": 59.8,
+    "alpha": 0.6,
+    "decline_2030": 15.5,
+    "decline_2040": 55.1,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Hedge Fund Manager",
+    "sector": "Finance & Business Services",
+    "wari": 58.3,
+    "alpha": 0.58,
+    "decline_2030": 15.1,
+    "decline_2040": 53.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Investment Advisor",
+    "sector": "Finance & Business Services",
+    "wari": 61.7,
+    "alpha": 0.62,
+    "decline_2030": 16.0,
+    "decline_2040": 56.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Junior Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 70.2,
+    "alpha": 0.7,
+    "decline_2030": 18.2,
+    "decline_2040": 64.7,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "KYC Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 73.6,
+    "alpha": 0.74,
+    "decline_2030": 19.1,
+    "decline_2040": 67.8,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Loan Processor",
+    "sector": "Finance & Business Services",
+    "wari": 71.8,
+    "alpha": 0.72,
+    "decline_2030": 18.6,
+    "decline_2040": 66.1,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Merger and Acquisition Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 64.1,
+    "alpha": 0.64,
+    "decline_2030": 16.6,
+    "decline_2040": 59.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Net Worth Advisor",
+    "sector": "Finance & Business Services",
+    "wari": 60.4,
+    "alpha": 0.6,
+    "decline_2030": 15.6,
+    "decline_2040": 55.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Options Trader",
+    "sector": "Finance & Business Services",
+    "wari": 63.9,
+    "alpha": 0.64,
+    "decline_2030": 16.6,
+    "decline_2040": 58.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Portfolio Manager",
+    "sector": "Finance & Business Services",
+    "wari": 59.6,
+    "alpha": 0.6,
+    "decline_2030": 15.4,
+    "decline_2040": 54.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Quantitative Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 66.4,
+    "alpha": 0.66,
+    "decline_2030": 17.2,
+    "decline_2040": 61.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Real Estate Investment Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 67.1,
+    "alpha": 0.67,
+    "decline_2030": 17.4,
+    "decline_2040": 61.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Securities Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 68.9,
+    "alpha": 0.69,
+    "decline_2030": 17.8,
+    "decline_2040": 63.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Tax Consultant",
+    "sector": "Finance & Business Services",
+    "wari": 72.3,
+    "alpha": 0.72,
+    "decline_2030": 18.7,
+    "decline_2040": 66.6,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Underwriting Assistant",
+    "sector": "Finance & Business Services",
+    "wari": 73.1,
+    "alpha": 0.73,
+    "decline_2030": 18.9,
+    "decline_2040": 67.3,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Venture Capital Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 61.8,
+    "alpha": 0.62,
+    "decline_2030": 16.0,
+    "decline_2040": 56.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Wealth Management Advisor",
+    "sector": "Finance & Business Services",
+    "wari": 58.7,
+    "alpha": 0.59,
+    "decline_2030": 15.2,
+    "decline_2040": 54.1,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Xero Bookkeeper",
+    "sector": "Finance & Business Services",
+    "wari": 74.5,
+    "alpha": 0.74,
+    "decline_2030": 19.3,
+    "decline_2040": 68.6,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Year-End Tax Preparer",
+    "sector": "Finance & Business Services",
+    "wari": 72.9,
+    "alpha": 0.73,
+    "decline_2030": 18.9,
+    "decline_2040": 67.1,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Zero-Based Budgeting Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 69.7,
+    "alpha": 0.7,
+    "decline_2030": 18.1,
+    "decline_2040": 64.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Accounts Receivable Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 71.2,
+    "alpha": 0.71,
+    "decline_2030": 18.4,
+    "decline_2040": 65.6,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Budget Coordinator",
+    "sector": "Finance & Business Services",
+    "wari": 68.8,
+    "alpha": 0.69,
+    "decline_2030": 17.8,
+    "decline_2040": 63.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Cash Management Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 70.6,
+    "alpha": 0.71,
+    "decline_2030": 18.3,
+    "decline_2040": 65.0,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Debt Collection Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 69.3,
+    "alpha": 0.69,
+    "decline_2030": 17.9,
+    "decline_2040": 63.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Estate Planning Attorney",
+    "sector": "Finance & Business Services",
+    "wari": 56.9,
+    "alpha": 0.57,
+    "decline_2030": 14.7,
+    "decline_2040": 52.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Financial Planning Assistant",
+    "sector": "Finance & Business Services",
+    "wari": 67.4,
+    "alpha": 0.67,
+    "decline_2030": 17.5,
+    "decline_2040": 62.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Government Accountant",
+    "sector": "Finance & Business Services",
+    "wari": 70.1,
+    "alpha": 0.7,
+    "decline_2030": 18.2,
+    "decline_2040": 64.6,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Healthcare Financial Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 66.8,
+    "alpha": 0.67,
+    "decline_2030": 17.3,
+    "decline_2040": 61.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Insurance Underwriter",
+    "sector": "Finance & Business Services",
+    "wari": 72.7,
+    "alpha": 0.73,
+    "decline_2030": 18.8,
+    "decline_2040": 67.0,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Junior Financial Advisor",
+    "sector": "Finance & Business Services",
+    "wari": 64.5,
+    "alpha": 0.65,
+    "decline_2030": 16.7,
+    "decline_2040": 59.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Knowledge Management Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 65.2,
+    "alpha": 0.65,
+    "decline_2030": 16.9,
+    "decline_2040": 60.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Lease Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 69.4,
+    "alpha": 0.69,
+    "decline_2030": 18.0,
+    "decline_2040": 63.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Mortgage Broker",
+    "sector": "Finance & Business Services",
+    "wari": 63.6,
+    "alpha": 0.64,
+    "decline_2030": 16.5,
+    "decline_2040": 58.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Non-Profit Financial Manager",
+    "sector": "Finance & Business Services",
+    "wari": 62.3,
+    "alpha": 0.62,
+    "decline_2030": 16.1,
+    "decline_2040": 57.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Operations Risk Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 67.9,
+    "alpha": 0.68,
+    "decline_2030": 17.6,
+    "decline_2040": 62.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Payroll Coordinator",
+    "sector": "Finance & Business Services",
+    "wari": 71.6,
+    "alpha": 0.72,
+    "decline_2030": 18.5,
+    "decline_2040": 65.9,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "QuickBooks Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 73.4,
+    "alpha": 0.73,
+    "decline_2030": 19.0,
+    "decline_2040": 67.6,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Retirement Planning Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 60.8,
+    "alpha": 0.61,
+    "decline_2030": 15.7,
+    "decline_2040": 56.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Staff Accountant",
+    "sector": "Finance & Business Services",
+    "wari": 72.1,
+    "alpha": 0.72,
+    "decline_2030": 18.7,
+    "decline_2040": 66.4,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Treasury Operations Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 68.2,
+    "alpha": 0.68,
+    "decline_2030": 17.7,
+    "decline_2040": 62.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Unbanked Services Coordinator",
+    "sector": "Finance & Business Services",
+    "wari": 64.7,
+    "alpha": 0.65,
+    "decline_2030": 16.8,
+    "decline_2040": 59.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Valuation Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 66.3,
+    "alpha": 0.66,
+    "decline_2030": 17.2,
+    "decline_2040": 61.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Working Capital Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 69.6,
+    "alpha": 0.7,
+    "decline_2030": 18.0,
+    "decline_2040": 64.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Xactly Administrator",
+    "sector": "Finance & Business Services",
+    "wari": 71.9,
+    "alpha": 0.72,
+    "decline_2030": 18.6,
+    "decline_2040": 66.2,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Yield Maintenance Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 70.4,
+    "alpha": 0.7,
+    "decline_2030": 18.2,
+    "decline_2040": 64.8,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Zoning Analysis Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 65.8,
+    "alpha": 0.66,
+    "decline_2030": 17.0,
+    "decline_2040": 60.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Anti-Money Laundering Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 72.8,
+    "alpha": 0.73,
+    "decline_2030": 18.9,
+    "decline_2040": 67.0,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Business Development Coordinator",
+    "sector": "Finance & Business Services",
+    "wari": 63.1,
+    "alpha": 0.63,
+    "decline_2030": 16.3,
+    "decline_2040": 58.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Credit Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 69.8,
+    "alpha": 0.7,
+    "decline_2030": 18.1,
+    "decline_2040": 64.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Due Diligence Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 67.6,
+    "alpha": 0.68,
+    "decline_2030": 17.5,
+    "decline_2040": 62.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "ESG Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 62.4,
+    "alpha": 0.62,
+    "decline_2030": 16.2,
+    "decline_2040": 57.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Fixed Income Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 68.1,
+    "alpha": 0.68,
+    "decline_2030": 17.6,
+    "decline_2040": 62.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Global Trade Finance Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 66.9,
+    "alpha": 0.67,
+    "decline_2030": 17.3,
+    "decline_2040": 61.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Housing Finance Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 65.7,
+    "alpha": 0.66,
+    "decline_2030": 17.0,
+    "decline_2040": 60.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "International Trade Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 64.2,
+    "alpha": 0.64,
+    "decline_2030": 16.6,
+    "decline_2040": 59.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Joint Venture Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 67.3,
+    "alpha": 0.67,
+    "decline_2030": 17.4,
+    "decline_2040": 62.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Key Account Manager",
+    "sector": "Finance & Business Services",
+    "wari": 58.9,
+    "alpha": 0.59,
+    "decline_2030": 15.3,
+    "decline_2040": 54.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Loss Mitigation Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 68.7,
+    "alpha": 0.69,
+    "decline_2030": 17.8,
+    "decline_2040": 63.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Municipal Bond Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 69.1,
+    "alpha": 0.69,
+    "decline_2030": 17.9,
+    "decline_2040": 63.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "New Business Development Manager",
+    "sector": "Finance & Business Services",
+    "wari": 59.5,
+    "alpha": 0.59,
+    "decline_2030": 15.4,
+    "decline_2040": 54.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Operational Due Diligence Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 68.4,
+    "alpha": 0.68,
+    "decline_2030": 17.7,
+    "decline_2040": 63.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Private Equity Associate",
+    "sector": "Finance & Business Services",
+    "wari": 61.2,
+    "alpha": 0.61,
+    "decline_2030": 15.9,
+    "decline_2040": 56.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Quality Assurance Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 70.7,
+    "alpha": 0.71,
+    "decline_2030": 18.3,
+    "decline_2040": 65.1,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Regulatory Compliance Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 71.3,
+    "alpha": 0.71,
+    "decline_2030": 18.5,
+    "decline_2040": 65.7,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Structured Products Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 66.7,
+    "alpha": 0.67,
+    "decline_2030": 17.3,
+    "decline_2040": 61.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Trade Settlement Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 72.6,
+    "alpha": 0.73,
+    "decline_2030": 18.8,
+    "decline_2040": 66.9,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Underwriter Trainee",
+    "sector": "Finance & Business Services",
+    "wari": 73.8,
+    "alpha": 0.74,
+    "decline_2030": 19.1,
+    "decline_2040": 68.0,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Valuation Associate",
+    "sector": "Finance & Business Services",
+    "wari": 67.2,
+    "alpha": 0.67,
+    "decline_2030": 17.4,
+    "decline_2040": 61.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Wealth Planning Associate",
+    "sector": "Finance & Business Services",
+    "wari": 61.4,
+    "alpha": 0.61,
+    "decline_2030": 15.9,
+    "decline_2040": 56.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "External Auditor",
+    "sector": "Finance & Business Services",
+    "wari": 69.9,
+    "alpha": 0.7,
+    "decline_2030": 18.1,
+    "decline_2040": 64.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Yield Curve Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 68.6,
+    "alpha": 0.69,
+    "decline_2030": 17.8,
+    "decline_2040": 63.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Zero Coupon Bond Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 70.3,
+    "alpha": 0.7,
+    "decline_2030": 18.2,
+    "decline_2040": 64.7,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Asset Management Associate",
+    "sector": "Finance & Business Services",
+    "wari": 64.8,
+    "alpha": 0.65,
+    "decline_2030": 16.8,
+    "decline_2040": 59.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Banking Operations Specialist",
+    "sector": "Finance & Business Services",
+    "wari": 71.7,
+    "alpha": 0.72,
+    "decline_2030": 18.6,
+    "decline_2040": 66.0,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Corporate Development Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 65.1,
+    "alpha": 0.65,
+    "decline_2030": 16.9,
+    "decline_2040": 60.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Distressed Debt Analyst",
+    "sector": "Finance & Business Services",
+    "wari": 63.8,
+    "alpha": 0.64,
+    "decline_2030": 16.5,
+    "decline_2040": 58.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Equity Research Associate",
+    "sector": "Finance & Business Services",
+    "wari": 66.5,
+    "alpha": 0.67,
+    "decline_2030": 17.2,
+    "decline_2040": 61.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "3D Printing Technician",
+    "sector": "Manufacturing",
+    "wari": 64.2,
+    "alpha": 0.64,
+    "decline_2030": 16.6,
+    "decline_2040": 59.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Assembly Line Supervisor",
+    "sector": "Manufacturing",
+    "wari": 62.8,
+    "alpha": 0.63,
+    "decline_2030": 16.3,
+    "decline_2040": 57.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Batch Production Manager",
+    "sector": "Manufacturing",
+    "wari": 61.4,
+    "alpha": 0.61,
+    "decline_2030": 15.9,
+    "decline_2040": 56.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Calibration Technician",
+    "sector": "Manufacturing",
+    "wari": 65.7,
+    "alpha": 0.66,
+    "decline_2030": 17.0,
+    "decline_2040": 60.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Die Casting Operator",
+    "sector": "Manufacturing",
+    "wari": 68.3,
+    "alpha": 0.68,
+    "decline_2030": 17.7,
+    "decline_2040": 62.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Extrusion Operator",
+    "sector": "Manufacturing",
+    "wari": 67.9,
+    "alpha": 0.68,
+    "decline_2030": 17.6,
+    "decline_2040": 62.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Forklift Maintenance Technician",
+    "sector": "Manufacturing",
+    "wari": 63.5,
+    "alpha": 0.64,
+    "decline_2030": 16.4,
+    "decline_2040": 58.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Grinding Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 66.8,
+    "alpha": 0.67,
+    "decline_2030": 17.3,
+    "decline_2040": 61.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Heat Treatment Specialist",
+    "sector": "Manufacturing",
+    "wari": 65.1,
+    "alpha": 0.65,
+    "decline_2030": 16.9,
+    "decline_2040": 60.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Injection Molding Technician",
+    "sector": "Manufacturing",
+    "wari": 67.4,
+    "alpha": 0.67,
+    "decline_2030": 17.5,
+    "decline_2040": 62.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Jig and Fixture Designer",
+    "sector": "Manufacturing",
+    "wari": 59.7,
+    "alpha": 0.6,
+    "decline_2030": 15.5,
+    "decline_2040": 55.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Kiln Operator",
+    "sector": "Manufacturing",
+    "wari": 66.2,
+    "alpha": 0.66,
+    "decline_2030": 17.1,
+    "decline_2040": 61.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Laser Cutting Operator",
+    "sector": "Manufacturing",
+    "wari": 65.9,
+    "alpha": 0.66,
+    "decline_2030": 17.1,
+    "decline_2040": 60.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Mold Maker",
+    "sector": "Manufacturing",
+    "wari": 62.3,
+    "alpha": 0.62,
+    "decline_2030": 16.1,
+    "decline_2040": 57.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "NDT Inspector",
+    "sector": "Manufacturing",
+    "wari": 64.6,
+    "alpha": 0.65,
+    "decline_2030": 16.7,
+    "decline_2040": 59.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Operations Supervisor",
+    "sector": "Manufacturing",
+    "wari": 60.1,
+    "alpha": 0.6,
+    "decline_2030": 15.6,
+    "decline_2040": 55.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Packaging Line Lead",
+    "sector": "Manufacturing",
+    "wari": 68.7,
+    "alpha": 0.69,
+    "decline_2030": 17.8,
+    "decline_2040": 63.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Quality Assurance Inspector",
+    "sector": "Manufacturing",
+    "wari": 70.4,
+    "alpha": 0.7,
+    "decline_2030": 18.2,
+    "decline_2040": 64.8,
+    "risk_level": "Very High",
+    "notes": "High substitution risk; prioritize transition planning"
+  },
+  {
+    "job": "Robotic Technician",
+    "sector": "Manufacturing",
+    "wari": 58.8,
+    "alpha": 0.59,
+    "decline_2030": 15.2,
+    "decline_2040": 54.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Stamping Press Operator",
+    "sector": "Manufacturing",
+    "wari": 69.2,
+    "alpha": 0.69,
+    "decline_2030": 17.9,
+    "decline_2040": 63.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Tool Room Manager",
+    "sector": "Manufacturing",
+    "wari": 61.7,
+    "alpha": 0.62,
+    "decline_2030": 16.0,
+    "decline_2040": 56.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Ultrasonic Welder",
+    "sector": "Manufacturing",
+    "wari": 66.5,
+    "alpha": 0.67,
+    "decline_2030": 17.2,
+    "decline_2040": 61.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Vacuum Forming Operator",
+    "sector": "Manufacturing",
+    "wari": 67.8,
+    "alpha": 0.68,
+    "decline_2030": 17.6,
+    "decline_2040": 62.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Warehouse Operations Manager",
+    "sector": "Manufacturing",
+    "wari": 63.1,
+    "alpha": 0.63,
+    "decline_2030": 16.3,
+    "decline_2040": 58.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "X-Ray Inspection Technician",
+    "sector": "Manufacturing",
+    "wari": 65.4,
+    "alpha": 0.65,
+    "decline_2030": 16.9,
+    "decline_2040": 60.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Yield Engineer",
+    "sector": "Manufacturing",
+    "wari": 62.9,
+    "alpha": 0.63,
+    "decline_2030": 16.3,
+    "decline_2040": 57.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Zone Supervisor",
+    "sector": "Manufacturing",
+    "wari": 61.8,
+    "alpha": 0.62,
+    "decline_2030": 16.0,
+    "decline_2040": 56.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Automation Programmer",
+    "sector": "Manufacturing",
+    "wari": 59.3,
+    "alpha": 0.59,
+    "decline_2030": 15.4,
+    "decline_2040": 54.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Blow Molding Operator",
+    "sector": "Manufacturing",
+    "wari": 68.1,
+    "alpha": 0.68,
+    "decline_2030": 17.6,
+    "decline_2040": 62.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "CNC Programmer",
+    "sector": "Manufacturing",
+    "wari": 64.8,
+    "alpha": 0.65,
+    "decline_2030": 16.8,
+    "decline_2040": 59.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Drilling Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 67.6,
+    "alpha": 0.68,
+    "decline_2030": 17.5,
+    "decline_2040": 62.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Equipment Maintenance Supervisor",
+    "sector": "Manufacturing",
+    "wari": 62.7,
+    "alpha": 0.63,
+    "decline_2030": 16.2,
+    "decline_2040": 57.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Fabrication Welder",
+    "sector": "Manufacturing",
+    "wari": 65.8,
+    "alpha": 0.66,
+    "decline_2030": 17.0,
+    "decline_2040": 60.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Gear Cutting Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 66.9,
+    "alpha": 0.67,
+    "decline_2030": 17.3,
+    "decline_2040": 61.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Hydraulic Press Operator",
+    "sector": "Manufacturing",
+    "wari": 68.4,
+    "alpha": 0.68,
+    "decline_2030": 17.7,
+    "decline_2040": 63.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Industrial Painter",
+    "sector": "Manufacturing",
+    "wari": 67.1,
+    "alpha": 0.67,
+    "decline_2030": 17.4,
+    "decline_2040": 61.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Jig Borer Operator",
+    "sector": "Manufacturing",
+    "wari": 66.3,
+    "alpha": 0.66,
+    "decline_2030": 17.2,
+    "decline_2040": 61.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Knurling Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 67.2,
+    "alpha": 0.67,
+    "decline_2030": 17.4,
+    "decline_2040": 61.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Lathe Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 66.7,
+    "alpha": 0.67,
+    "decline_2030": 17.3,
+    "decline_2040": 61.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Milling Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 66.1,
+    "alpha": 0.66,
+    "decline_2030": 17.1,
+    "decline_2040": 60.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Numerical Control Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 67.5,
+    "alpha": 0.68,
+    "decline_2030": 17.5,
+    "decline_2040": 62.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Oven Operator",
+    "sector": "Manufacturing",
+    "wari": 68.6,
+    "alpha": 0.69,
+    "decline_2030": 17.8,
+    "decline_2040": 63.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Planing Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 67.9,
+    "alpha": 0.68,
+    "decline_2030": 17.6,
+    "decline_2040": 62.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Quenching Specialist",
+    "sector": "Manufacturing",
+    "wari": 65.3,
+    "alpha": 0.65,
+    "decline_2030": 16.9,
+    "decline_2040": 60.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Riveting Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 68.8,
+    "alpha": 0.69,
+    "decline_2030": 17.8,
+    "decline_2040": 63.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Shearing Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 68.2,
+    "alpha": 0.68,
+    "decline_2030": 17.7,
+    "decline_2040": 62.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Threading Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 67.4,
+    "alpha": 0.67,
+    "decline_2030": 17.5,
+    "decline_2040": 62.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Upholstery Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 66.8,
+    "alpha": 0.67,
+    "decline_2030": 17.3,
+    "decline_2040": 61.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Vibration Analyst",
+    "sector": "Manufacturing",
+    "wari": 63.9,
+    "alpha": 0.64,
+    "decline_2030": 16.6,
+    "decline_2040": 58.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Water Jet Cutting Operator",
+    "sector": "Manufacturing",
+    "wari": 65.6,
+    "alpha": 0.66,
+    "decline_2030": 17.0,
+    "decline_2040": 60.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Xerographic Equipment Operator",
+    "sector": "Manufacturing",
+    "wari": 69.1,
+    "alpha": 0.69,
+    "decline_2030": 17.9,
+    "decline_2040": 63.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Yarn Spinning Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 68.5,
+    "alpha": 0.69,
+    "decline_2030": 17.7,
+    "decline_2040": 63.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Zinc Plating Operator",
+    "sector": "Manufacturing",
+    "wari": 68.9,
+    "alpha": 0.69,
+    "decline_2030": 17.8,
+    "decline_2040": 63.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Anodizing Line Operator",
+    "sector": "Manufacturing",
+    "wari": 68.7,
+    "alpha": 0.69,
+    "decline_2030": 17.8,
+    "decline_2040": 63.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Brazing Technician",
+    "sector": "Manufacturing",
+    "wari": 66.4,
+    "alpha": 0.66,
+    "decline_2030": 17.2,
+    "decline_2040": 61.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Ceramic Mold Maker",
+    "sector": "Manufacturing",
+    "wari": 64.1,
+    "alpha": 0.64,
+    "decline_2030": 16.6,
+    "decline_2040": 59.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Deburring Machine Operator",
+    "sector": "Manufacturing",
+    "wari": 67.8,
+    "alpha": 0.68,
+    "decline_2030": 17.6,
+    "decline_2040": 62.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Electroplating Technician",
+    "sector": "Manufacturing",
+    "wari": 68.3,
+    "alpha": 0.68,
+    "decline_2030": 17.7,
+    "decline_2040": 62.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Furnace Tender",
+    "sector": "Manufacturing",
+    "wari": 67.6,
+    "alpha": 0.68,
+    "decline_2030": 17.5,
+    "decline_2040": 62.3,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Galvanizing Line Operator",
+    "sector": "Manufacturing",
+    "wari": 68.1,
+    "alpha": 0.68,
+    "decline_2030": 17.6,
+    "decline_2040": 62.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Hot Dip Galvanizer",
+    "sector": "Manufacturing",
+    "wari": 68.4,
+    "alpha": 0.68,
+    "decline_2030": 17.7,
+    "decline_2040": 63.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Apiary Inspector",
+    "sector": "Agriculture",
+    "wari": 39.7,
+    "alpha": 0.4,
+    "decline_2030": 10.3,
+    "decline_2040": 36.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Beekeeping Specialist",
+    "sector": "Agriculture",
+    "wari": 38.2,
+    "alpha": 0.38,
+    "decline_2030": 9.9,
+    "decline_2040": 35.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Crop Dusting Pilot",
+    "sector": "Agriculture",
+    "wari": 44.8,
+    "alpha": 0.45,
+    "decline_2030": 11.6,
+    "decline_2040": 41.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Dairy Farm Manager",
+    "sector": "Agriculture",
+    "wari": 42.6,
+    "alpha": 0.43,
+    "decline_2030": 11.0,
+    "decline_2040": 39.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Egg Candler",
+    "sector": "Agriculture",
+    "wari": 48.3,
+    "alpha": 0.48,
+    "decline_2030": 12.5,
+    "decline_2040": 44.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Farm Equipment Operator",
+    "sector": "Agriculture",
+    "wari": 46.9,
+    "alpha": 0.47,
+    "decline_2030": 12.1,
+    "decline_2040": 43.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Grain Elevator Operator",
+    "sector": "Agriculture",
+    "wari": 47.5,
+    "alpha": 0.47,
+    "decline_2030": 12.3,
+    "decline_2040": 43.7,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Horse Trainer",
+    "sector": "Agriculture",
+    "wari": 35.4,
+    "alpha": 0.35,
+    "decline_2030": 9.2,
+    "decline_2040": 32.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Irrigation Specialist",
+    "sector": "Agriculture",
+    "wari": 45.1,
+    "alpha": 0.45,
+    "decline_2030": 11.7,
+    "decline_2040": 41.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Jockey",
+    "sector": "Agriculture",
+    "wari": 32.8,
+    "alpha": 0.33,
+    "decline_2030": 8.5,
+    "decline_2040": 30.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Kennel Manager",
+    "sector": "Agriculture",
+    "wari": 38.9,
+    "alpha": 0.39,
+    "decline_2030": 10.1,
+    "decline_2040": 35.8,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Livestock Auction Specialist",
+    "sector": "Agriculture",
+    "wari": 41.7,
+    "alpha": 0.42,
+    "decline_2030": 10.8,
+    "decline_2040": 38.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Mushroom Grower",
+    "sector": "Agriculture",
+    "wari": 43.2,
+    "alpha": 0.43,
+    "decline_2030": 11.2,
+    "decline_2040": 39.8,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Nursery Manager",
+    "sector": "Agriculture",
+    "wari": 40.4,
+    "alpha": 0.4,
+    "decline_2030": 10.5,
+    "decline_2040": 37.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Organic Farm Inspector",
+    "sector": "Agriculture",
+    "wari": 44.6,
+    "alpha": 0.45,
+    "decline_2030": 11.6,
+    "decline_2040": 41.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Poultry Farmer",
+    "sector": "Agriculture",
+    "wari": 44.9,
+    "alpha": 0.45,
+    "decline_2030": 11.6,
+    "decline_2040": 41.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Quarantine Officer",
+    "sector": "Agriculture",
+    "wari": 46.2,
+    "alpha": 0.46,
+    "decline_2030": 12.0,
+    "decline_2040": 42.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Ranch Hand",
+    "sector": "Agriculture",
+    "wari": 42.1,
+    "alpha": 0.42,
+    "decline_2030": 10.9,
+    "decline_2040": 38.8,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Seed Sales Representative",
+    "sector": "Agriculture",
+    "wari": 36.7,
+    "alpha": 0.37,
+    "decline_2030": 9.5,
+    "decline_2040": 33.8,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Tree Surgeon",
+    "sector": "Agriculture",
+    "wari": 41.3,
+    "alpha": 0.41,
+    "decline_2030": 10.7,
+    "decline_2040": 38.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Upland Game Bird Breeder",
+    "sector": "Agriculture",
+    "wari": 40.8,
+    "alpha": 0.41,
+    "decline_2030": 10.6,
+    "decline_2040": 37.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Vineyard Manager",
+    "sector": "Agriculture",
+    "wari": 39.5,
+    "alpha": 0.4,
+    "decline_2030": 10.2,
+    "decline_2040": 36.4,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Wildlife Biologist",
+    "sector": "Agriculture",
+    "wari": 38.1,
+    "alpha": 0.38,
+    "decline_2030": 9.9,
+    "decline_2040": 35.1,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Xylem Researcher",
+    "sector": "Agriculture",
+    "wari": 42.7,
+    "alpha": 0.43,
+    "decline_2030": 11.1,
+    "decline_2040": 39.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Yak Herder",
+    "sector": "Agriculture",
+    "wari": 35.9,
+    "alpha": 0.36,
+    "decline_2030": 9.3,
+    "decline_2040": 33.1,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Zoo Veterinarian",
+    "sector": "Agriculture",
+    "wari": 37.4,
+    "alpha": 0.37,
+    "decline_2030": 9.7,
+    "decline_2040": 34.4,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Aquaponics Specialist",
+    "sector": "Agriculture",
+    "wari": 41.8,
+    "alpha": 0.42,
+    "decline_2030": 10.8,
+    "decline_2040": 38.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Barn Manager",
+    "sector": "Agriculture",
+    "wari": 43.5,
+    "alpha": 0.43,
+    "decline_2030": 11.3,
+    "decline_2040": 40.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Cotton Gin Operator",
+    "sector": "Agriculture",
+    "wari": 48.1,
+    "alpha": 0.48,
+    "decline_2030": 12.5,
+    "decline_2040": 44.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Duck Farm Manager",
+    "sector": "Agriculture",
+    "wari": 42.3,
+    "alpha": 0.42,
+    "decline_2030": 11.0,
+    "decline_2040": 39.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Equine Therapist",
+    "sector": "Agriculture",
+    "wari": 36.2,
+    "alpha": 0.36,
+    "decline_2030": 9.4,
+    "decline_2040": 33.3,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Fish Hatchery Manager",
+    "sector": "Agriculture",
+    "wari": 40.7,
+    "alpha": 0.41,
+    "decline_2030": 10.5,
+    "decline_2040": 37.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Greenhouse Technician",
+    "sector": "Agriculture",
+    "wari": 44.1,
+    "alpha": 0.44,
+    "decline_2030": 11.4,
+    "decline_2040": 40.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Hay Baler Operator",
+    "sector": "Agriculture",
+    "wari": 45.8,
+    "alpha": 0.46,
+    "decline_2030": 11.9,
+    "decline_2040": 42.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Insect Control Specialist",
+    "sector": "Agriculture",
+    "wari": 46.7,
+    "alpha": 0.47,
+    "decline_2030": 12.1,
+    "decline_2040": 43.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Jute Farmer",
+    "sector": "Agriculture",
+    "wari": 43.9,
+    "alpha": 0.44,
+    "decline_2030": 11.4,
+    "decline_2040": 40.4,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Kale Harvester",
+    "sector": "Agriculture",
+    "wari": 44.4,
+    "alpha": 0.44,
+    "decline_2030": 11.5,
+    "decline_2040": 40.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Llama Breeder",
+    "sector": "Agriculture",
+    "wari": 38.6,
+    "alpha": 0.39,
+    "decline_2030": 10.0,
+    "decline_2040": 35.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Maple Syrup Producer",
+    "sector": "Agriculture",
+    "wari": 40.2,
+    "alpha": 0.4,
+    "decline_2030": 10.4,
+    "decline_2040": 37.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Nut Orchard Manager",
+    "sector": "Agriculture",
+    "wari": 41.9,
+    "alpha": 0.42,
+    "decline_2030": 10.9,
+    "decline_2040": 38.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Academic Dean",
+    "sector": "Education",
+    "wari": 35.8,
+    "alpha": 0.36,
+    "decline_2030": 9.3,
+    "decline_2040": 33.0,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Behavior Specialist",
+    "sector": "Education",
+    "wari": 32.4,
+    "alpha": 0.32,
+    "decline_2030": 8.4,
+    "decline_2040": 29.8,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Curriculum Coordinator",
+    "sector": "Education",
+    "wari": 36.7,
+    "alpha": 0.37,
+    "decline_2030": 9.5,
+    "decline_2040": 33.8,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Distance Learning Coordinator",
+    "sector": "Education",
+    "wari": 38.9,
+    "alpha": 0.39,
+    "decline_2030": 10.1,
+    "decline_2040": 35.8,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Educational Consultant",
+    "sector": "Education",
+    "wari": 37.2,
+    "alpha": 0.37,
+    "decline_2030": 9.6,
+    "decline_2040": 34.3,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Faculty Development Coordinator",
+    "sector": "Education",
+    "wari": 36.1,
+    "alpha": 0.36,
+    "decline_2030": 9.3,
+    "decline_2040": 33.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Grant Writing Specialist",
+    "sector": "Education",
+    "wari": 39.4,
+    "alpha": 0.39,
+    "decline_2030": 10.2,
+    "decline_2040": 36.3,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Head of Department",
+    "sector": "Education",
+    "wari": 34.6,
+    "alpha": 0.35,
+    "decline_2030": 9.0,
+    "decline_2040": 31.9,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Instructional Technology Specialist",
+    "sector": "Education",
+    "wari": 38.7,
+    "alpha": 0.39,
+    "decline_2030": 10.0,
+    "decline_2040": 35.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Juvenile Detention Teacher",
+    "sector": "Education",
+    "wari": 35.3,
+    "alpha": 0.35,
+    "decline_2030": 9.1,
+    "decline_2040": 32.5,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Knowledge Management Coordinator",
+    "sector": "Education",
+    "wari": 40.1,
+    "alpha": 0.4,
+    "decline_2030": 10.4,
+    "decline_2040": 36.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Language Lab Coordinator",
+    "sector": "Education",
+    "wari": 37.8,
+    "alpha": 0.38,
+    "decline_2030": 9.8,
+    "decline_2040": 34.8,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Math Coach",
+    "sector": "Education",
+    "wari": 33.9,
+    "alpha": 0.34,
+    "decline_2030": 8.8,
+    "decline_2040": 31.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Nursing Instructor",
+    "sector": "Education",
+    "wari": 34.2,
+    "alpha": 0.34,
+    "decline_2030": 8.9,
+    "decline_2040": 31.5,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Online Learning Designer",
+    "sector": "Education",
+    "wari": 39.6,
+    "alpha": 0.4,
+    "decline_2030": 10.3,
+    "decline_2040": 36.5,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Peer Tutor Coordinator",
+    "sector": "Education",
+    "wari": 37.5,
+    "alpha": 0.38,
+    "decline_2030": 9.7,
+    "decline_2040": 34.5,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Quality Assurance Coordinator",
+    "sector": "Education",
+    "wari": 41.3,
+    "alpha": 0.41,
+    "decline_2030": 10.7,
+    "decline_2040": 38.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Reading Specialist",
+    "sector": "Education",
+    "wari": 32.7,
+    "alpha": 0.33,
+    "decline_2030": 8.5,
+    "decline_2040": 30.1,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Student Affairs Coordinator",
+    "sector": "Education",
+    "wari": 38.4,
+    "alpha": 0.38,
+    "decline_2030": 9.9,
+    "decline_2040": 35.4,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Title I Coordinator",
+    "sector": "Education",
+    "wari": 36.8,
+    "alpha": 0.37,
+    "decline_2030": 9.5,
+    "decline_2040": 33.9,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "University Registrar",
+    "sector": "Education",
+    "wari": 40.7,
+    "alpha": 0.41,
+    "decline_2030": 10.5,
+    "decline_2040": 37.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Volunteer Coordinator",
+    "sector": "Education",
+    "wari": 37.1,
+    "alpha": 0.37,
+    "decline_2030": 9.6,
+    "decline_2040": 34.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Workshop Facilitator",
+    "sector": "Education",
+    "wari": 35.6,
+    "alpha": 0.36,
+    "decline_2030": 9.2,
+    "decline_2040": 32.8,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "XCEL Program Coordinator",
+    "sector": "Education",
+    "wari": 39.8,
+    "alpha": 0.4,
+    "decline_2030": 10.3,
+    "decline_2040": 36.7,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Youth Development Coordinator",
+    "sector": "Education",
+    "wari": 36.3,
+    "alpha": 0.36,
+    "decline_2030": 9.4,
+    "decline_2040": 33.4,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Zone Coordinator",
+    "sector": "Education",
+    "wari": 38.2,
+    "alpha": 0.38,
+    "decline_2030": 9.9,
+    "decline_2040": 35.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Adult Education Instructor",
+    "sector": "Education",
+    "wari": 36.9,
+    "alpha": 0.37,
+    "decline_2030": 9.6,
+    "decline_2040": 34.0,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Bridge Program Coordinator",
+    "sector": "Education",
+    "wari": 38.5,
+    "alpha": 0.39,
+    "decline_2030": 10.0,
+    "decline_2040": 35.5,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Community Education Director",
+    "sector": "Education",
+    "wari": 37.4,
+    "alpha": 0.37,
+    "decline_2030": 9.7,
+    "decline_2040": 34.4,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Dual Enrollment Coordinator",
+    "sector": "Education",
+    "wari": 39.1,
+    "alpha": 0.39,
+    "decline_2030": 10.1,
+    "decline_2040": 36.0,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "eLearning Specialist",
+    "sector": "Education",
+    "wari": 40.4,
+    "alpha": 0.4,
+    "decline_2030": 10.5,
+    "decline_2040": 37.2,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Financial Aid Counselor",
+    "sector": "Education",
+    "wari": 39.7,
+    "alpha": 0.4,
+    "decline_2030": 10.3,
+    "decline_2040": 36.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "GED Instructor",
+    "sector": "Education",
+    "wari": 37.6,
+    "alpha": 0.38,
+    "decline_2030": 9.7,
+    "decline_2040": 34.6,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Homeschool Coordinator",
+    "sector": "Education",
+    "wari": 35.9,
+    "alpha": 0.36,
+    "decline_2030": 9.3,
+    "decline_2040": 33.1,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "International Student Advisor",
+    "sector": "Education",
+    "wari": 38.8,
+    "alpha": 0.39,
+    "decline_2030": 10.0,
+    "decline_2040": 35.7,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Job Placement Coordinator",
+    "sector": "Education",
+    "wari": 40.2,
+    "alpha": 0.4,
+    "decline_2030": 10.4,
+    "decline_2040": 37.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "K-12 Technology Coordinator",
+    "sector": "Education",
+    "wari": 39.3,
+    "alpha": 0.39,
+    "decline_2030": 10.2,
+    "decline_2040": 36.2,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Literacy Coach",
+    "sector": "Education",
+    "wari": 33.1,
+    "alpha": 0.33,
+    "decline_2030": 8.6,
+    "decline_2040": 30.5,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Montessori Teacher",
+    "sector": "Education",
+    "wari": 31.8,
+    "alpha": 0.32,
+    "decline_2030": 8.2,
+    "decline_2040": 29.3,
+    "risk_level": "Very Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "NCLB Compliance Coordinator",
+    "sector": "Education",
+    "wari": 41.6,
+    "alpha": 0.42,
+    "decline_2030": 10.8,
+    "decline_2040": 38.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Air Traffic Coordinator",
+    "sector": "Transport & Logistics",
+    "wari": 65.1,
+    "alpha": 0.65,
+    "decline_2030": 16.9,
+    "decline_2040": 60.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Bulk Carrier Captain",
+    "sector": "Transport & Logistics",
+    "wari": 52.8,
+    "alpha": 0.53,
+    "decline_2030": 13.7,
+    "decline_2040": 48.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Container Yard Supervisor",
+    "sector": "Transport & Logistics",
+    "wari": 63.7,
+    "alpha": 0.64,
+    "decline_2030": 16.5,
+    "decline_2040": 58.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Distribution Center Manager",
+    "sector": "Transport & Logistics",
+    "wari": 59.2,
+    "alpha": 0.59,
+    "decline_2030": 15.3,
+    "decline_2040": 54.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Express Delivery Driver",
+    "sector": "Transport & Logistics",
+    "wari": 62.4,
+    "alpha": 0.62,
+    "decline_2030": 16.2,
+    "decline_2040": 57.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Fleet Maintenance Supervisor",
+    "sector": "Transport & Logistics",
+    "wari": 58.6,
+    "alpha": 0.59,
+    "decline_2030": 15.2,
+    "decline_2040": 54.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Ground Handling Agent",
+    "sector": "Transport & Logistics",
+    "wari": 64.9,
+    "alpha": 0.65,
+    "decline_2030": 16.8,
+    "decline_2040": 59.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Harbor Pilot",
+    "sector": "Transport & Logistics",
+    "wari": 48.3,
+    "alpha": 0.48,
+    "decline_2030": 12.5,
+    "decline_2040": 44.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Intermodal Coordinator",
+    "sector": "Transport & Logistics",
+    "wari": 61.8,
+    "alpha": 0.62,
+    "decline_2030": 16.0,
+    "decline_2040": 56.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Jet Fuel Truck Driver",
+    "sector": "Transport & Logistics",
+    "wari": 63.2,
+    "alpha": 0.63,
+    "decline_2030": 16.4,
+    "decline_2040": 58.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Kitting Specialist",
+    "sector": "Transport & Logistics",
+    "wari": 65.4,
+    "alpha": 0.65,
+    "decline_2030": 16.9,
+    "decline_2040": 60.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Load Planner",
+    "sector": "Transport & Logistics",
+    "wari": 62.9,
+    "alpha": 0.63,
+    "decline_2030": 16.3,
+    "decline_2040": 57.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Marine Engineer",
+    "sector": "Transport & Logistics",
+    "wari": 54.7,
+    "alpha": 0.55,
+    "decline_2030": 14.2,
+    "decline_2040": 50.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Navigation Officer",
+    "sector": "Transport & Logistics",
+    "wari": 56.1,
+    "alpha": 0.56,
+    "decline_2030": 14.5,
+    "decline_2040": 51.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Order Picker",
+    "sector": "Transport & Logistics",
+    "wari": 64.3,
+    "alpha": 0.64,
+    "decline_2030": 16.7,
+    "decline_2040": 59.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Packaging Coordinator",
+    "sector": "Transport & Logistics",
+    "wari": 63.8,
+    "alpha": 0.64,
+    "decline_2030": 16.5,
+    "decline_2040": 58.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Quality Control Inspector",
+    "sector": "Transport & Logistics",
+    "wari": 65.7,
+    "alpha": 0.66,
+    "decline_2030": 17.0,
+    "decline_2040": 60.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Rail Dispatcher",
+    "sector": "Transport & Logistics",
+    "wari": 62.6,
+    "alpha": 0.63,
+    "decline_2030": 16.2,
+    "decline_2040": 57.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Shipping Coordinator",
+    "sector": "Transport & Logistics",
+    "wari": 63.5,
+    "alpha": 0.64,
+    "decline_2030": 16.4,
+    "decline_2040": 58.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Terminal Manager",
+    "sector": "Transport & Logistics",
+    "wari": 58.4,
+    "alpha": 0.58,
+    "decline_2030": 15.1,
+    "decline_2040": 53.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Unloading Supervisor",
+    "sector": "Transport & Logistics",
+    "wari": 64.1,
+    "alpha": 0.64,
+    "decline_2030": 16.6,
+    "decline_2040": 59.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Vehicle Inspector",
+    "sector": "Transport & Logistics",
+    "wari": 61.7,
+    "alpha": 0.62,
+    "decline_2030": 16.0,
+    "decline_2040": 56.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Warehouse Associate",
+    "sector": "Transport & Logistics",
+    "wari": 64.6,
+    "alpha": 0.65,
+    "decline_2030": 16.7,
+    "decline_2040": 59.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Yard Jockey",
+    "sector": "Transport & Logistics",
+    "wari": 62.3,
+    "alpha": 0.62,
+    "decline_2030": 16.1,
+    "decline_2040": 57.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Zone Manager",
+    "sector": "Transport & Logistics",
+    "wari": 59.8,
+    "alpha": 0.6,
+    "decline_2030": 15.5,
+    "decline_2040": 55.1,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Aircraft Loader",
+    "sector": "Transport & Logistics",
+    "wari": 65.3,
+    "alpha": 0.65,
+    "decline_2030": 16.9,
+    "decline_2040": 60.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Baggage Handler",
+    "sector": "Transport & Logistics",
+    "wari": 64.8,
+    "alpha": 0.65,
+    "decline_2030": 16.8,
+    "decline_2040": 59.7,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Cargo Agent",
+    "sector": "Transport & Logistics",
+    "wari": 63.4,
+    "alpha": 0.63,
+    "decline_2030": 16.4,
+    "decline_2040": 58.4,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Delivery Route Supervisor",
+    "sector": "Transport & Logistics",
+    "wari": 60.7,
+    "alpha": 0.61,
+    "decline_2030": 15.7,
+    "decline_2040": 55.9,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Equipment Operator",
+    "sector": "Transport & Logistics",
+    "wari": 62.1,
+    "alpha": 0.62,
+    "decline_2030": 16.1,
+    "decline_2040": 57.2,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Fuel Truck Operator",
+    "sector": "Transport & Logistics",
+    "wari": 63.6,
+    "alpha": 0.64,
+    "decline_2030": 16.5,
+    "decline_2040": 58.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Gate Agent",
+    "sector": "Transport & Logistics",
+    "wari": 62.8,
+    "alpha": 0.63,
+    "decline_2030": 16.3,
+    "decline_2040": 57.8,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Hazmat Driver",
+    "sector": "Transport & Logistics",
+    "wari": 59.4,
+    "alpha": 0.59,
+    "decline_2030": 15.4,
+    "decline_2040": 54.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Import/Export Coordinator",
+    "sector": "Transport & Logistics",
+    "wari": 61.5,
+    "alpha": 0.61,
+    "decline_2030": 15.9,
+    "decline_2040": 56.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Just-in-Time Coordinator",
+    "sector": "Transport & Logistics",
+    "wari": 63.1,
+    "alpha": 0.63,
+    "decline_2030": 16.3,
+    "decline_2040": 58.1,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Kitting Warehouse Associate",
+    "sector": "Transport & Logistics",
+    "wari": 65.2,
+    "alpha": 0.65,
+    "decline_2030": 16.9,
+    "decline_2040": 60.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Linehaul Driver",
+    "sector": "Transport & Logistics",
+    "wari": 61.9,
+    "alpha": 0.62,
+    "decline_2030": 16.0,
+    "decline_2040": 57.0,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Materials Handler",
+    "sector": "Transport & Logistics",
+    "wari": 64.7,
+    "alpha": 0.65,
+    "decline_2030": 16.8,
+    "decline_2040": 59.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Night Shift Supervisor",
+    "sector": "Transport & Logistics",
+    "wari": 62.5,
+    "alpha": 0.62,
+    "decline_2030": 16.2,
+    "decline_2040": 57.6,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Operations Coordinator",
+    "sector": "Transport & Logistics",
+    "wari": 60.3,
+    "alpha": 0.6,
+    "decline_2030": 15.6,
+    "decline_2040": 55.5,
+    "risk_level": "High",
+    "notes": "Significant automation impact expected"
+  },
+  {
+    "job": "Assistant Store Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 55.3,
+    "alpha": 0.55,
+    "decline_2030": 14.3,
+    "decline_2040": 50.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Banquet Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 52.7,
+    "alpha": 0.53,
+    "decline_2030": 13.6,
+    "decline_2040": 48.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Casino Dealer",
+    "sector": "Retail & Hospitality",
+    "wari": 58.6,
+    "alpha": 0.59,
+    "decline_2030": 15.2,
+    "decline_2040": 54.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Department Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 53.8,
+    "alpha": 0.54,
+    "decline_2030": 13.9,
+    "decline_2040": 49.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Event Planner",
+    "sector": "Retail & Hospitality",
+    "wari": 49.2,
+    "alpha": 0.49,
+    "decline_2030": 12.7,
+    "decline_2040": 45.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Fashion Buyer",
+    "sector": "Retail & Hospitality",
+    "wari": 51.4,
+    "alpha": 0.51,
+    "decline_2030": 13.3,
+    "decline_2040": 47.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Gift Shop Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 54.9,
+    "alpha": 0.55,
+    "decline_2030": 14.2,
+    "decline_2040": 50.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Hospitality Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 50.6,
+    "alpha": 0.51,
+    "decline_2030": 13.1,
+    "decline_2040": 46.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Inventory Specialist",
+    "sector": "Retail & Hospitality",
+    "wari": 57.1,
+    "alpha": 0.57,
+    "decline_2030": 14.8,
+    "decline_2040": 52.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Jewelry Sales Associate",
+    "sector": "Retail & Hospitality",
+    "wari": 53.2,
+    "alpha": 0.53,
+    "decline_2030": 13.8,
+    "decline_2040": 49.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Kitchen Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 52.4,
+    "alpha": 0.52,
+    "decline_2030": 13.6,
+    "decline_2040": 48.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Loss Prevention Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 56.8,
+    "alpha": 0.57,
+    "decline_2030": 14.7,
+    "decline_2040": 52.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Merchandise Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 55.7,
+    "alpha": 0.56,
+    "decline_2030": 14.4,
+    "decline_2040": 51.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Night Auditor",
+    "sector": "Retail & Hospitality",
+    "wari": 57.9,
+    "alpha": 0.58,
+    "decline_2030": 15.0,
+    "decline_2040": 53.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Operations Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 51.8,
+    "alpha": 0.52,
+    "decline_2030": 13.4,
+    "decline_2040": 47.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Personal Shopper",
+    "sector": "Retail & Hospitality",
+    "wari": 48.7,
+    "alpha": 0.49,
+    "decline_2030": 12.6,
+    "decline_2040": 44.9,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Quick Service Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 54.5,
+    "alpha": 0.55,
+    "decline_2030": 14.1,
+    "decline_2040": 50.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Restaurant Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 52.1,
+    "alpha": 0.52,
+    "decline_2030": 13.5,
+    "decline_2040": 48.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Shift Supervisor",
+    "sector": "Retail & Hospitality",
+    "wari": 56.3,
+    "alpha": 0.56,
+    "decline_2030": 14.6,
+    "decline_2040": 51.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Travel Consultant",
+    "sector": "Retail & Hospitality",
+    "wari": 53.6,
+    "alpha": 0.54,
+    "decline_2030": 13.9,
+    "decline_2040": 49.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Uniform Rental Coordinator",
+    "sector": "Retail & Hospitality",
+    "wari": 56.9,
+    "alpha": 0.57,
+    "decline_2030": 14.7,
+    "decline_2040": 52.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Vendor Relations Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 54.2,
+    "alpha": 0.54,
+    "decline_2030": 14.0,
+    "decline_2040": 49.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Wedding Coordinator",
+    "sector": "Retail & Hospitality",
+    "wari": 47.8,
+    "alpha": 0.48,
+    "decline_2030": 12.4,
+    "decline_2040": 44.0,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Xbox Gaming Lounge Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 52.9,
+    "alpha": 0.53,
+    "decline_2030": 13.7,
+    "decline_2040": 48.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Yacht Club Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 48.1,
+    "alpha": 0.48,
+    "decline_2030": 12.5,
+    "decline_2040": 44.3,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Zone Merchandiser",
+    "sector": "Retail & Hospitality",
+    "wari": 55.4,
+    "alpha": 0.55,
+    "decline_2030": 14.3,
+    "decline_2040": 51.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Antique Dealer",
+    "sector": "Retail & Hospitality",
+    "wari": 49.6,
+    "alpha": 0.5,
+    "decline_2030": 12.8,
+    "decline_2040": 45.7,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Bridal Consultant",
+    "sector": "Retail & Hospitality",
+    "wari": 48.3,
+    "alpha": 0.48,
+    "decline_2030": 12.5,
+    "decline_2040": 44.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Caterer",
+    "sector": "Retail & Hospitality",
+    "wari": 53.7,
+    "alpha": 0.54,
+    "decline_2030": 13.9,
+    "decline_2040": 49.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Deli Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 54.8,
+    "alpha": 0.55,
+    "decline_2030": 14.2,
+    "decline_2040": 50.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Electronics Sales Specialist",
+    "sector": "Retail & Hospitality",
+    "wari": 55.1,
+    "alpha": 0.55,
+    "decline_2030": 14.3,
+    "decline_2040": 50.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Floral Designer",
+    "sector": "Retail & Hospitality",
+    "wari": 50.4,
+    "alpha": 0.5,
+    "decline_2030": 13.1,
+    "decline_2040": 46.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Gift Wrapper",
+    "sector": "Retail & Hospitality",
+    "wari": 58.2,
+    "alpha": 0.58,
+    "decline_2030": 15.1,
+    "decline_2040": 53.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Home Improvement Sales Associate",
+    "sector": "Retail & Hospitality",
+    "wari": 54.6,
+    "alpha": 0.55,
+    "decline_2030": 14.1,
+    "decline_2040": 50.3,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Ice Cream Shop Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 55.8,
+    "alpha": 0.56,
+    "decline_2030": 14.5,
+    "decline_2040": 51.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Juice Bar Operator",
+    "sector": "Retail & Hospitality",
+    "wari": 56.4,
+    "alpha": 0.56,
+    "decline_2030": 14.6,
+    "decline_2040": 51.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Kiosk Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 56.7,
+    "alpha": 0.57,
+    "decline_2030": 14.7,
+    "decline_2040": 52.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Luggage Sales Associate",
+    "sector": "Retail & Hospitality",
+    "wari": 55.9,
+    "alpha": 0.56,
+    "decline_2030": 14.5,
+    "decline_2040": 51.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Mall Security Guard",
+    "sector": "Retail & Hospitality",
+    "wari": 57.3,
+    "alpha": 0.57,
+    "decline_2030": 14.8,
+    "decline_2040": 52.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Newsstand Operator",
+    "sector": "Retail & Hospitality",
+    "wari": 58.1,
+    "alpha": 0.58,
+    "decline_2030": 15.0,
+    "decline_2040": 53.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Optical Sales Associate",
+    "sector": "Retail & Hospitality",
+    "wari": 54.3,
+    "alpha": 0.54,
+    "decline_2030": 14.1,
+    "decline_2040": 50.0,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Pet Store Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 53.1,
+    "alpha": 0.53,
+    "decline_2030": 13.8,
+    "decline_2040": 48.9,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Quincea\u00f1era Event Planner",
+    "sector": "Retail & Hospitality",
+    "wari": 48.5,
+    "alpha": 0.48,
+    "decline_2030": 12.6,
+    "decline_2040": 44.7,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Record Store Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 52.6,
+    "alpha": 0.53,
+    "decline_2030": 13.6,
+    "decline_2040": 48.4,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Shoe Sales Associate",
+    "sector": "Retail & Hospitality",
+    "wari": 55.2,
+    "alpha": 0.55,
+    "decline_2030": 14.3,
+    "decline_2040": 50.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Toy Store Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 53.9,
+    "alpha": 0.54,
+    "decline_2030": 14.0,
+    "decline_2040": 49.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Used Car Sales Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 51.7,
+    "alpha": 0.52,
+    "decline_2030": 13.4,
+    "decline_2040": 47.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Vitamin Shop Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 54.1,
+    "alpha": 0.54,
+    "decline_2030": 14.0,
+    "decline_2040": 49.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Wine Shop Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 50.8,
+    "alpha": 0.51,
+    "decline_2030": 13.2,
+    "decline_2040": 46.8,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Xtreme Sports Retailer",
+    "sector": "Retail & Hospitality",
+    "wari": 49.4,
+    "alpha": 0.49,
+    "decline_2030": 12.8,
+    "decline_2040": 45.5,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Yarn Shop Owner",
+    "sector": "Retail & Hospitality",
+    "wari": 51.3,
+    "alpha": 0.51,
+    "decline_2030": 13.3,
+    "decline_2040": 47.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Zero Waste Store Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 52.8,
+    "alpha": 0.53,
+    "decline_2030": 13.7,
+    "decline_2040": 48.6,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Art Gallery Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 47.9,
+    "alpha": 0.48,
+    "decline_2030": 12.4,
+    "decline_2040": 44.1,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Bookstore Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 51.6,
+    "alpha": 0.52,
+    "decline_2030": 13.4,
+    "decline_2040": 47.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Coffee Shop Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 53.4,
+    "alpha": 0.53,
+    "decline_2030": 13.8,
+    "decline_2040": 49.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Dollar Store Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 56.1,
+    "alpha": 0.56,
+    "decline_2030": 14.5,
+    "decline_2040": 51.7,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Escape Room Game Master",
+    "sector": "Retail & Hospitality",
+    "wari": 46.2,
+    "alpha": 0.46,
+    "decline_2030": 12.0,
+    "decline_2040": 42.6,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Farmers Market Coordinator",
+    "sector": "Retail & Hospitality",
+    "wari": 49.7,
+    "alpha": 0.5,
+    "decline_2030": 12.9,
+    "decline_2040": 45.8,
+    "risk_level": "Low",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Gaming Store Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 52.3,
+    "alpha": 0.52,
+    "decline_2030": 13.5,
+    "decline_2040": 48.2,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  },
+  {
+    "job": "Hardware Store Manager",
+    "sector": "Retail & Hospitality",
+    "wari": 53.8,
+    "alpha": 0.54,
+    "decline_2030": 13.9,
+    "decline_2040": 49.5,
+    "risk_level": "Medium",
+    "notes": "Mixed impact; hybrid workflows likely"
+  }
+]
