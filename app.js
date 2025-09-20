@@ -37,7 +37,7 @@ class WARIApp {
     async loadData() {
         try {
             console.log('Loading occupation data...');
-            const response = await fetch('https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/5c22422f41748cdd80bcdc1e0e3d3eb7/d8bf0113-9bd3-4b57-9c7d-dcfcab3b3671/5bd30d03.json');
+            const response = await fetch('/occupations_data.json');
             
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
